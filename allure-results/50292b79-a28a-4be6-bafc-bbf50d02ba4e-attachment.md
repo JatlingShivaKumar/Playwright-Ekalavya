@@ -1,0 +1,89 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - banner:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e6]:
+          - generic [ref=e7]:
+            - link [ref=e8] [cursor=pointer]:
+              - /url: "#!/dashboard"
+              - img [ref=e9] [cursor=pointer]
+            - generic [ref=e10]:
+              - button "Search Students" [ref=e11] [cursor=pointer]: Search Students
+              - text: 
+          - generic [ref=e14]:
+            - generic [ref=e16] [cursor=pointer]:
+              - text: Settings
+              - generic [ref=e17] [cursor=pointer]: 
+            - list:
+              - generic:
+                - generic: 
+                - text: Profile
+              - generic:
+                - generic: 
+                - text: Log Out
+        - generic [ref=e18]:
+          - generic [ref=e20]:
+            - generic [ref=e21]: Branch
+            - combobox "Branch" [ref=e22] [cursor=pointer]:
+              - option "AP DEMO SCHOOL" [selected]
+          - generic [ref=e23]:
+            - generic:
+              - list:
+                - listitem [ref=e24]:
+                  - generic [ref=e26] [cursor=pointer]: 
+                - listitem [ref=e27]:
+                  - generic [ref=e28] [cursor=pointer]: EXAMS
+                - listitem [ref=e29]:
+                  - generic [ref=e30] [cursor=pointer]: COURSE
+                - listitem [ref=e31]:
+                  - generic [ref=e32] [cursor=pointer]: STUDENTS
+                - listitem [ref=e33]:
+                  - generic [ref=e34] [cursor=pointer]: ANALYTICS
+                - listitem
+                - listitem [ref=e35]:
+                  - generic [ref=e36] [cursor=pointer]: EkaLavya+
+                - listitem [ref=e37]:
+                  - generic [ref=e38] [cursor=pointer]: EkaLavya Learning Store
+  - generic [ref=e42]:
+    - generic [ref=e43]:
+      - generic [ref=e44]:
+        - generic [ref=e45]: Course
+        - generic [ref=e46]: Provide learning content access to students
+      - generic:
+        - generic [ref=e49]:
+          - generic [ref=e50]: Course
+          - combobox [active] [ref=e51] [cursor=pointer]:
+            - option "TS SSC" [selected]
+            - option "AP SSC"
+        - generic [ref=e53]:
+          - generic [ref=e54]: Class
+          - combobox [ref=e55] [cursor=pointer]:
+            - option [selected]
+            - option "Class 6"
+            - option "Class 7"
+            - option "Class 8"
+            - option "Class 9"
+            - option "Class 10"
+            - option "Class 1"
+            - option "Class 2"
+            - option "Class 3"
+            - option "Class 4"
+            - option "Class 5"
+            - option "Nursery"
+            - option "LKG"
+            - option "UKG"
+        - generic [ref=e57]:
+          - generic [ref=e58]: Subject
+          - combobox [ref=e59] [cursor=pointer]:
+            - option [selected]
+        - generic [ref=e61]:
+          - generic [ref=e62]: Content type
+          - combobox [ref=e63] [cursor=pointer]:
+            - option [selected]
+            - option "SSC"
+        - generic [ref=e67] [cursor=pointer]: 
+    - generic [ref=e70]: Please Select Course, Class and Content Type.
+```

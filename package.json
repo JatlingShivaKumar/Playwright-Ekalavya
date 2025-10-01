@@ -1,0 +1,22 @@
+{
+  "name": "ekalavya-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "fullTest": "npx playwright test",
+    "test:smoke": "npx playwright test --grep @smoke",
+    "test:regression": "npx playwright test --grep @regression",
+    "test:qa": "npx playwright test --grep (?=.*@smoke)(?=.*@regression)",
+    "allure-report": "allure serve allure-results"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.1",
+    "allure-commandline": "^2.34.1",
+    "allure-playwright": "^3.4.1"
+  }
+}
