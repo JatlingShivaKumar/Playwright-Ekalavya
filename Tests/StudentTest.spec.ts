@@ -1,6 +1,6 @@
 import { test } from '@playwright/test'
-import { CoursePage } from '../Pages/CoursePage'
 import loginData from '../TestData/Login.json'
+import StudentDetails  from '../TestData/StudentDetails.json'
 import { LoginPage } from '../Pages/LoginPage'
 import { StudentPage } from '../Pages/StudentPage'
 
@@ -15,7 +15,9 @@ test.beforeEach(async ({ page})=>{
 })
 
 test("Student Page Test Case", async ({ page })=>{
-    await loginPage.vaildLogin(loginData.userName, loginData.password)
+    await loginPage.vaildLogin(loginData.userName, loginData.password) 
     await page.waitForTimeout(4000)
     studentPage.getStudentDetails()
+    await page.waitForTimeout(1000)
+    await studentPage.addNewStudents(StudentDetails.admissionNumber, StudentDetails.rollNumber, StudentDetails.studentName)
 })

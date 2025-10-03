@@ -1,0 +1,379 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - banner:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e6]:
+          - generic [ref=e7]:
+            - link [ref=e8] [cursor=pointer]:
+              - /url: "#!/dashboard"
+              - img [ref=e9] [cursor=pointer]
+            - generic [ref=e10]:
+              - button "Search Students" [ref=e11] [cursor=pointer]: Search Students
+              - text: 
+          - generic [ref=e14]:
+            - generic [ref=e16] [cursor=pointer]:
+              - text: Settings
+              - generic [ref=e17] [cursor=pointer]: 
+            - list:
+              - generic:
+                - generic: 
+                - text: Profile
+              - generic:
+                - generic: 
+                - text: Log Out
+        - generic [ref=e18]:
+          - generic [ref=e20]:
+            - generic [ref=e21]: Branch
+            - combobox "Branch" [ref=e22] [cursor=pointer]:
+              - option "AP DEMO SCHOOL" [selected]
+          - generic [ref=e23]:
+            - generic:
+              - list:
+                - listitem [ref=e24]:
+                  - generic [ref=e26] [cursor=pointer]: 
+                - listitem [ref=e27]:
+                  - generic [ref=e28] [cursor=pointer]: EXAMS
+                - listitem [ref=e29]:
+                  - generic [ref=e30] [cursor=pointer]: COURSE
+                - listitem [ref=e31]:
+                  - generic [ref=e32] [cursor=pointer]: STUDENTS
+                - listitem [ref=e33]:
+                  - generic [ref=e34] [cursor=pointer]: ANALYTICS
+                - listitem
+                - listitem [ref=e35]:
+                  - generic [ref=e36] [cursor=pointer]: EkaLavya+
+                - listitem [ref=e37]:
+                  - generic [ref=e38] [cursor=pointer]: EkaLavya Learning Store
+  - generic [ref=e42]:
+    - generic [ref=e43]:
+      - generic [ref=e44]:
+        - generic [ref=e45]: Course
+        - generic [ref=e46]: Provide learning content access to students
+      - generic:
+        - generic [ref=e49]:
+          - generic [ref=e50]: Course
+          - combobox [ref=e51] [cursor=pointer]:
+            - option "TS SSC" [selected]
+            - option "AP SSC"
+        - generic [ref=e53]:
+          - generic [ref=e54]: Class
+          - combobox [ref=e55] [cursor=pointer]:
+            - option "Class 6"
+            - option "Class 7"
+            - option "Class 8"
+            - option "Class 9"
+            - option "Class 10" [selected]
+            - option "Class 1"
+            - option "Class 2"
+            - option "Class 3"
+            - option "Class 4"
+            - option "Class 5"
+            - option "Nursery"
+            - option "LKG"
+            - option "UKG"
+        - generic [ref=e57]:
+          - generic [ref=e58]: Subject
+          - combobox [ref=e59] [cursor=pointer]:
+            - option "Maths10" [selected]
+            - option "Biology10"
+            - option "Social Science10"
+            - option "English10"
+            - option "General Knowledge10"
+            - option "Science10"
+            - option "Telugu10 - I Language"
+            - option "Hindi10 - II Language"
+            - option "Mindfulness 10"
+        - generic [ref=e61]:
+          - generic [ref=e62]: Content type
+          - combobox [ref=e63] [cursor=pointer]:
+            - option "SSC" [selected]
+        - generic [ref=e67] [cursor=pointer]: 
+    - generic [ref=e69]:
+      - generic [ref=e70]:
+        - button "Lock All" [ref=e71] [cursor=pointer]
+        - button "UnLock All" [ref=e72] [cursor=pointer]
+      - generic [ref=e73]:
+        - generic [ref=e76]:
+          - generic [ref=e79]: REGULAR
+          - generic [ref=e81]:
+            - generic [ref=e82]:
+              - generic [ref=e85]:
+                - generic [ref=e86]:
+                  - generic [ref=e87] [cursor=pointer]: 1. Real Numbers
+                  - button "" [ref=e90] [cursor=pointer]:
+                    - generic [ref=e91] [cursor=pointer]: 
+                - text: +
+              - list [ref=e94]:
+                - listitem [ref=e95] [cursor=pointer]:
+                  - generic [ref=e96] [cursor=pointer]:
+                    - generic [ref=e97] [cursor=pointer]: 1.1. Real Numbers
+                    - button "" [ref=e100] [cursor=pointer]:
+                      - generic [ref=e101] [cursor=pointer]: 
+            - generic [ref=e102]:
+              - generic [ref=e105]:
+                - generic [ref=e106]:
+                  - generic [ref=e107] [cursor=pointer]: 2. Sets
+                  - button "" [ref=e110] [cursor=pointer]:
+                    - generic [ref=e111] [cursor=pointer]: 
+                - text: +
+              - text: 
+            - generic [ref=e112]:
+              - generic [ref=e115]:
+                - generic [ref=e116]:
+                  - generic [ref=e117] [cursor=pointer]: 3. Polynomials
+                  - button "" [ref=e120] [cursor=pointer]:
+                    - generic [ref=e121] [cursor=pointer]: 
+                - text: +
+              - text: 
+            - generic [ref=e122]:
+              - generic [ref=e125]:
+                - generic [ref=e126]:
+                  - generic [ref=e127] [cursor=pointer]: 4. Pair of Linear Equations in Two Variables
+                  - button "" [ref=e130] [cursor=pointer]:
+                    - generic [ref=e131] [cursor=pointer]: 
+                - text: +
+              - text: 
+            - generic [ref=e132]:
+              - generic [ref=e135]:
+                - generic [ref=e136]:
+                  - generic [ref=e137] [cursor=pointer]: 5. Quadratic Equations
+                  - button "" [ref=e140] [cursor=pointer]:
+                    - generic [ref=e141] [cursor=pointer]: 
+                - text: +
+              - text: 
+            - generic [ref=e142]:
+              - generic [ref=e145]:
+                - generic [ref=e146]:
+                  - generic [ref=e147] [cursor=pointer]: 6. Progressions
+                  - button "" [ref=e150] [cursor=pointer]:
+                    - generic [ref=e151] [cursor=pointer]: 
+                - text: +
+              - text: 
+            - generic [ref=e152]:
+              - generic [ref=e155]:
+                - generic [ref=e156]:
+                  - generic [ref=e157] [cursor=pointer]: 7. Coordinate Geometry
+                  - button "" [ref=e160] [cursor=pointer]:
+                    - generic [ref=e161] [cursor=pointer]: 
+                - text: +
+              - text: 
+            - generic [ref=e162]:
+              - generic [ref=e165]:
+                - generic [ref=e166]:
+                  - generic [ref=e167] [cursor=pointer]: 8. Similar Triangles
+                  - button "" [ref=e170] [cursor=pointer]:
+                    - generic [ref=e171] [cursor=pointer]: 
+                - text: +
+              - text: 
+            - generic [ref=e172]:
+              - generic [ref=e175]:
+                - generic [ref=e176]:
+                  - generic [ref=e177] [cursor=pointer]: 9. Tangents and Secants to a Circle
+                  - button "" [ref=e180] [cursor=pointer]:
+                    - generic [ref=e181] [cursor=pointer]: 
+                - text: +
+              - text: 
+            - generic [ref=e182]:
+              - generic [ref=e185]:
+                - generic [ref=e186]:
+                  - generic [ref=e187] [cursor=pointer]: 10. Mensuration
+                  - button "" [ref=e190] [cursor=pointer]:
+                    - generic [ref=e191] [cursor=pointer]: 
+                - text: +
+              - text: 
+            - generic [ref=e192]:
+              - generic [ref=e195]:
+                - generic [ref=e196]:
+                  - generic [ref=e197] [cursor=pointer]: 11. Trigonometry
+                  - button "" [ref=e200] [cursor=pointer]:
+                    - generic [ref=e201] [cursor=pointer]: 
+                - text: +
+              - text: 
+            - generic [ref=e202]:
+              - generic [ref=e205]:
+                - generic [ref=e206]:
+                  - generic [ref=e207] [cursor=pointer]: 12. Applications of Trigonometry
+                  - button "" [ref=e210] [cursor=pointer]:
+                    - generic [ref=e211] [cursor=pointer]: 
+                - text: +
+              - text: 
+            - generic [ref=e212]:
+              - generic [ref=e215]:
+                - generic [ref=e216]:
+                  - generic [ref=e217] [cursor=pointer]: 13. Probability
+                  - button "" [ref=e220] [cursor=pointer]:
+                    - generic [ref=e221] [cursor=pointer]: 
+                - text: +
+              - text: 
+            - generic [ref=e222]:
+              - generic [ref=e225]:
+                - generic [ref=e226]:
+                  - generic [ref=e227] [cursor=pointer]: 14. Statistics
+                  - button "" [ref=e230] [cursor=pointer]:
+                    - generic [ref=e231] [cursor=pointer]: 
+                - text: +
+              - text: 
+            - generic [ref=e233] [cursor=pointer]: + Add Chapter
+        - generic [ref=e234]:
+          - button "Expand" [ref=e235] [cursor=pointer]
+          - generic [ref=e237]:
+            - generic [ref=e238]:
+              - generic [ref=e239]:
+                - button "" [ref=e240] [cursor=pointer]:
+                  - generic [ref=e241] [cursor=pointer]: 
+                - generic [ref=e242]: 1.1. Real Numbers
+              - button "Lesson Plan" [ref=e244] [cursor=pointer]
+            - generic [ref=e247]:
+              - paragraph [ref=e250] [cursor=pointer]:
+                - generic [ref=e251] [cursor=pointer]: Videos
+              - paragraph [ref=e254] [cursor=pointer]:
+                - generic [ref=e255] [cursor=pointer]: Q&A
+              - paragraph [ref=e258] [cursor=pointer]:
+                - generic [ref=e259] [cursor=pointer]: Summary
+              - paragraph [ref=e262] [cursor=pointer]:
+                - generic [ref=e263] [cursor=pointer]: Textbook Content
+              - paragraph [ref=e266] [cursor=pointer]:
+                - generic [ref=e267] [cursor=pointer]: Questions
+              - paragraph [ref=e270] [cursor=pointer]:
+                - generic [ref=e271] [cursor=pointer]: Resources
+            - generic [ref=e272]:
+              - generic [ref=e273]:
+                - generic [ref=e275]:
+                  - generic [ref=e276]:
+                    - generic [ref=e277]: Video Lectures
+                    - generic [ref=e278]: 13 videos
+                  - iframe [active] [ref=e280]:
+                    - generic [ref=f1e2]:
+                      - generic:
+                        - generic:
+                          - img
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                        - generic:
+                          - img
+                          - generic: Playing in picture-in-picture
+                      - generic:
+                        - generic:
+                          - link "Link to video owner's profile":
+                            - /url: https://vimeo.com/user108098656?fl=pl&fe=po
+                            - img "Link to video owner's profile"
+                        - generic:
+                          - generic:
+                            - link "Real Numbers - Session 1":
+                              - /url: https://vimeo.com/441094673/9a4e31822a?fl=pl&fe=ti
+                            - generic:
+                              - generic: Real Numbers - Session 1
+                          - link "EkaLavya":
+                            - /url: https://vimeo.com/user108098656?fl=pl&fe=by
+                            - generic: EkaLavya
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: More options
+                              - button "More options":
+                                - img
+                        - alert:
+                          - alert [ref=f1e11]:
+                            - heading "Player error" [level=1] [ref=f1e12]
+                            - generic [ref=f1e13]: The player is having trouble. We’ll have it back up and running as soon as possible.
+                            - button "Send Error Log" [active] [ref=f1e14] [cursor=pointer]:
+                              - generic [ref=f1e15] [cursor=pointer]: Send Error Log
+                        - generic:
+                          - button "Pause" [ref=f1e17] [cursor=pointer]:
+                            - img [ref=f1e18] [cursor=pointer]
+                            - generic:
+                              - generic: Pause
+                          - generic [ref=f1e21]:
+                            - generic [ref=f1e22]:
+                              - slider "Progress Bar" [ref=f1e23] [cursor=pointer]
+                              - generic:
+                                - generic:
+                                  - generic: 00:00
+                              - generic [ref=f1e28]: 00:00
+                            - generic [ref=f1e29]:
+                              - generic [ref=f1e30]:
+                                - button "Mute" [ref=f1e31] [cursor=pointer]:
+                                  - img [ref=f1e32] [cursor=pointer]
+                                - slider "Volume (use up/down arrow keys to change)"
+                              - button "Settings" [ref=f1e34] [cursor=pointer]:
+                                - img [ref=f1e35] [cursor=pointer]
+                                - generic:
+                                  - generic: Settings
+                              - button "Picture-in-Picture" [ref=f1e37] [cursor=pointer]:
+                                - img [ref=f1e38] [cursor=pointer]
+                                - generic:
+                                  - generic: Picture-in-Picture
+                              - button "Fullscreen" [ref=f1e40] [cursor=pointer]:
+                                - img [ref=f1e41] [cursor=pointer]
+                                - generic:
+                                  - generic: Fullscreen
+                              - link "Watch on Vimeo" [ref=f1e43] [cursor=pointer]:
+                                - /url: https://vimeo.com/441094673/9a4e31822a?fl=pl&fe=vl
+                                - img [ref=f1e44] [cursor=pointer]
+                        - img
+                - generic [ref=e282]:
+                  - button "Lock All" [ref=e283] [cursor=pointer]
+                  - button "UnLock All" [ref=e284] [cursor=pointer]
+                  - button "+ Add New Video" [ref=e285] [cursor=pointer]
+                - generic [ref=e286]:
+                  - generic [ref=e287] [cursor=pointer]:
+                    - generic [ref=e289] [cursor=pointer]: Real Numbers - Session1
+                    - button "" [ref=e291] [cursor=pointer]:
+                      - generic [ref=e292] [cursor=pointer]: 
+                  - generic [ref=e293] [cursor=pointer]:
+                    - generic [ref=e295] [cursor=pointer]: Real Numbers - Session 2
+                    - button "" [ref=e297] [cursor=pointer]:
+                      - generic [ref=e298] [cursor=pointer]: 
+                  - generic [ref=e299] [cursor=pointer]:
+                    - generic [ref=e301] [cursor=pointer]: Real Numbers - Session 3
+                    - button "" [ref=e303] [cursor=pointer]:
+                      - generic [ref=e304] [cursor=pointer]: 
+                  - generic [ref=e305] [cursor=pointer]:
+                    - generic [ref=e307] [cursor=pointer]: Real Numbers - Session 4
+                    - button "" [ref=e309] [cursor=pointer]:
+                      - generic [ref=e310] [cursor=pointer]: 
+                  - generic [ref=e311] [cursor=pointer]:
+                    - generic [ref=e313] [cursor=pointer]: Real Numbers - Session 5
+                    - button "" [ref=e315] [cursor=pointer]:
+                      - generic [ref=e316] [cursor=pointer]: 
+                  - generic [ref=e317] [cursor=pointer]:
+                    - generic [ref=e319] [cursor=pointer]: Real Numbers - Session 6
+                    - button "" [ref=e321] [cursor=pointer]:
+                      - generic [ref=e322] [cursor=pointer]: 
+                  - generic [ref=e323] [cursor=pointer]:
+                    - generic [ref=e325] [cursor=pointer]: Real Numbers - Session 7
+                    - button "" [ref=e327] [cursor=pointer]:
+                      - generic [ref=e328] [cursor=pointer]: 
+                  - generic [ref=e329] [cursor=pointer]:
+                    - generic [ref=e331] [cursor=pointer]: Real Numbers - Session 8
+                    - button "" [ref=e333] [cursor=pointer]:
+                      - generic [ref=e334] [cursor=pointer]: 
+                  - generic [ref=e335] [cursor=pointer]:
+                    - generic [ref=e337] [cursor=pointer]: Real Numbers
+                    - button "" [ref=e339] [cursor=pointer]:
+                      - generic [ref=e340] [cursor=pointer]: 
+                  - generic [ref=e341] [cursor=pointer]:
+                    - generic [ref=e343] [cursor=pointer]: What are Rational Numbers?
+                    - button "" [ref=e345] [cursor=pointer]:
+                      - generic [ref=e346] [cursor=pointer]: 
+                  - generic [ref=e347] [cursor=pointer]:
+                    - generic [ref=e349] [cursor=pointer]: What are Irrational Numbers and Why do we need them?
+                    - button "" [ref=e351] [cursor=pointer]:
+                      - generic [ref=e352] [cursor=pointer]: 
+                  - generic [ref=e353] [cursor=pointer]:
+                    - generic [ref=e355] [cursor=pointer]: How do we Prove the Existence of Irrational Numbers?
+                    - button "" [ref=e357] [cursor=pointer]:
+                      - generic [ref=e358] [cursor=pointer]: 
+                  - generic [ref=e359] [cursor=pointer]:
+                    - generic [ref=e361] [cursor=pointer]: What are Irrational Numbers?
+                    - button "" [ref=e363] [cursor=pointer]:
+                      - generic [ref=e364] [cursor=pointer]: 
+              - text: 
+```

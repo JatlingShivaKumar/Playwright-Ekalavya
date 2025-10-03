@@ -1,0 +1,393 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - banner:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e6]:
+          - generic [ref=e7]:
+            - link [ref=e8] [cursor=pointer]:
+              - /url: "#!/dashboard"
+              - img [ref=e9] [cursor=pointer]
+            - generic [ref=e10]:
+              - button "Search Students" [ref=e11] [cursor=pointer]: Search Students
+              - text: 
+          - generic [ref=e14]:
+            - generic [ref=e16] [cursor=pointer]:
+              - text: Settings
+              - generic [ref=e17] [cursor=pointer]: 
+            - list:
+              - generic:
+                - generic: 
+                - text: Profile
+              - generic:
+                - generic: 
+                - text: Log Out
+        - generic [ref=e18]:
+          - generic [ref=e20]:
+            - generic [ref=e21]: Branch
+            - combobox "Branch" [ref=e22] [cursor=pointer]:
+              - option "AP DEMO SCHOOL" [selected]
+          - generic [ref=e23]:
+            - generic:
+              - list:
+                - listitem [ref=e24]:
+                  - generic [ref=e26] [cursor=pointer]: 
+                - listitem [ref=e27]:
+                  - generic [ref=e28] [cursor=pointer]: EXAMS
+                - listitem [ref=e29]:
+                  - generic [ref=e30] [cursor=pointer]: COURSE
+                - listitem [ref=e31]:
+                  - generic [ref=e32] [cursor=pointer]: STUDENTS
+                - listitem [ref=e33]:
+                  - generic [ref=e34] [cursor=pointer]: ANALYTICS
+                - listitem
+                - listitem [ref=e35]:
+                  - generic [ref=e36] [cursor=pointer]: EkaLavya+
+                - listitem [ref=e37]:
+                  - generic [ref=e38] [cursor=pointer]: EkaLavya Learning Store
+  - generic [ref=e41]:
+    - generic [ref=e43]:
+      - generic [ref=e44]:
+        - generic [ref=e45]: Student Management
+        - generic [ref=e46]: Manage all your student accounts
+      - generic [ref=e48]:
+        - generic [ref=e50]:
+          - generic [ref=e51]: Course
+          - combobox [ref=e52] [cursor=pointer]:
+            - option "Select course" [disabled]
+            - option "TS SSC" [selected]
+            - option "AP SSC"
+        - generic [ref=e54]:
+          - generic [ref=e55]: Class
+          - combobox [ref=e56] [cursor=pointer]:
+            - option "Select Class" [disabled]
+            - option "Class 6"
+            - option "Class 7"
+            - option "Class 8" [selected]
+            - option "Class 9"
+            - option "Class 10"
+            - option "Class 1"
+            - option "Class 2"
+            - option "Class 3"
+            - option "Class 4"
+            - option "Class 5"
+            - option "Nursery"
+            - option "LKG"
+            - option "UKG"
+        - generic [ref=e60] [cursor=pointer]: arrow_forward
+      - generic [ref=e61]:
+        - generic [ref=e64]:
+          - generic [ref=e66] [cursor=pointer]:
+            - generic [ref=e67] [cursor=pointer]: Add New Students
+            - generic [ref=e69] [cursor=pointer]: add
+          - generic [ref=e70]:
+            - generic [ref=e71]:
+              - heading "Sections +New" [level=4] [ref=e73]:
+                - text: Sections
+                - generic [ref=e74] [cursor=pointer]: +New
+              - generic [ref=e75]:
+                - paragraph [ref=e77] [cursor=pointer]:
+                  - generic [ref=e78] [cursor=pointer]: A
+                  - generic [ref=e79] [cursor=pointer]: 
+                - paragraph [ref=e81] [cursor=pointer]:
+                  - generic [ref=e82] [cursor=pointer]: B
+                  - generic [ref=e83] [cursor=pointer]: 
+                - paragraph [ref=e85] [cursor=pointer]:
+                  - generic [ref=e86] [cursor=pointer]: C
+                  - generic [ref=e87] [cursor=pointer]: 
+                - paragraph [ref=e89] [cursor=pointer]:
+                  - generic [ref=e90] [cursor=pointer]: D
+                  - generic [ref=e91] [cursor=pointer]: 
+                - paragraph [ref=e93]:
+                  - generic [ref=e94]: All Students
+            - text: +  
+        - generic [ref=e96]:
+          - generic [ref=e98]:
+            - generic [ref=e99]: "No'of Students : 6"
+            - generic [ref=e101]:
+              - generic [ref=e102]: 
+              - textbox "Search Students" [ref=e103]
+            - combobox [ref=e106] [cursor=pointer]:
+              - option "--Actions--" [disabled] [selected]
+              - option "Send Messages"
+              - option "Bulk Edit & Update"
+              - option "Delete"
+              - option "Disable"
+              - option "Enable"
+          - separator [ref=e108]
+          - table [ref=e111]:
+            - rowgroup [ref=e112]:
+              - row "Name ROLL No Admission No Login Name SECTION NAME" [ref=e113]:
+                - cell [ref=e114]:
+                  - generic:
+                    - checkbox
+                - cell [ref=e116]
+                - cell "Name" [ref=e117]
+                - cell "ROLL No" [ref=e118]
+                - cell "Admission No" [ref=e119]
+                - cell "Login Name" [ref=e120]
+                - cell "SECTION NAME" [ref=e121]
+            - rowgroup [ref=e122]:
+              - row "M Manga 2 123457789 M1234577894142 A " [ref=e123]:
+                - cell [ref=e124]:
+                  - generic:
+                    - checkbox
+                - cell "M" [ref=e126]:
+                  - generic [ref=e128]: M
+                - cell "Manga" [ref=e129]
+                - cell "2" [ref=e130]
+                - cell "123457789" [ref=e131]
+                - cell "M1234577894142" [ref=e132]
+                - cell "A" [ref=e133]
+                - cell "" [ref=e134]:
+                  - button "" [ref=e137] [cursor=pointer]:
+                    - generic [ref=e138] [cursor=pointer]: 
+              - row "N Noble school 5 1234 N012344142 A " [ref=e139]:
+                - cell [ref=e140]:
+                  - generic:
+                    - checkbox
+                - cell "N" [ref=e142]:
+                  - generic [ref=e144]: "N"
+                - cell "Noble school" [ref=e145]
+                - cell "5" [ref=e146]
+                - cell "1234" [ref=e147]
+                - cell "N012344142" [ref=e148]
+                - cell "A" [ref=e149]
+                - cell "" [ref=e150]:
+                  - button "" [ref=e153] [cursor=pointer]:
+                    - generic [ref=e154] [cursor=pointer]: 
+              - row "R Raja 76589 12345778 R123457784142 A " [ref=e155]:
+                - cell [ref=e156]:
+                  - generic:
+                    - checkbox
+                - cell "R" [ref=e158]:
+                  - generic [ref=e160]: R
+                - cell "Raja" [ref=e161]
+                - cell "76589" [ref=e162]
+                - cell "12345778" [ref=e163]
+                - cell "R123457784142" [ref=e164]
+                - cell "A" [ref=e165]
+                - cell "" [ref=e166]:
+                  - button "" [ref=e169] [cursor=pointer]:
+                    - generic [ref=e170] [cursor=pointer]: 
+              - row "S SRI KRISHNA 1234 12341234 S123412344142 A " [ref=e171]:
+                - cell [ref=e172]:
+                  - generic:
+                    - checkbox
+                - cell "S" [ref=e174]:
+                  - generic [ref=e176]: S
+                - cell "SRI KRISHNA" [ref=e177]
+                - cell "1234" [ref=e178]
+                - cell "12341234" [ref=e179]
+                - cell "S123412344142" [ref=e180]
+                - cell "A" [ref=e181]
+                - cell "" [ref=e182]:
+                  - button "" [ref=e185] [cursor=pointer]:
+                    - generic [ref=e186] [cursor=pointer]: 
+              - row "T Testing 8 1 A8001 TA80014142 A " [ref=e187]:
+                - cell [ref=e188]:
+                  - generic:
+                    - checkbox
+                - cell "T" [ref=e190]:
+                  - generic [ref=e192]: T
+                - cell "Testing 8" [ref=e193]
+                - cell "1" [ref=e194]
+                - cell "A8001" [ref=e195]
+                - cell "TA80014142" [ref=e196]
+                - cell "A" [ref=e197]
+                - cell "" [ref=e198]:
+                  - button "" [ref=e201] [cursor=pointer]:
+                    - generic [ref=e202] [cursor=pointer]: 
+              - row "y yashwanth 208812 208812 Y2088124142 A " [ref=e203]:
+                - cell [ref=e204]:
+                  - generic:
+                    - checkbox
+                - cell "y" [ref=e206]:
+                  - generic [ref=e208]: "y"
+                - cell "yashwanth" [ref=e209]
+                - cell "208812" [ref=e210]
+                - cell "208812" [ref=e211]
+                - cell "Y2088124142" [ref=e212]
+                - cell "A" [ref=e213]
+                - cell "" [ref=e214]:
+                  - button "" [ref=e217] [cursor=pointer]:
+                    - generic [ref=e218] [cursor=pointer]: 
+    - generic [ref=e220]:
+      - generic [ref=e222]:
+        - text: Add New Students in
+        - combobox [ref=e223]:
+          - option "Section" [disabled]
+          - option "A" [selected]
+          - option "B"
+          - option "C"
+          - option "D"
+        - text: enrolled for
+        - combobox [ref=e224]:
+          - option "Category" [disabled]
+          - option "SSC" [selected]
+        - paragraph [ref=e225]: Last Roll Number in this section is 208812
+        - paragraph [ref=e226]: "(Note : Please select the section first to view the last roll number added in the section)"
+      - generic "Close" [ref=e228] [cursor=pointer]: clear
+      - generic [ref=e231]:
+        - generic [ref=e233]:
+          - textbox [ref=e234]
+          - generic: "* Student Admission No."
+        - generic [ref=e236]:
+          - textbox [ref=e237]
+          - generic: "* Roll No."
+        - generic [ref=e239]:
+          - textbox [ref=e240]: 2025-10-03
+          - generic: Joining Date
+        - generic [ref=e242]:
+          - textbox [ref=e243]
+          - generic: "* Student Name (Full Name)"
+        - generic [ref=e245]:
+          - textbox [ref=e246]
+          - generic: Student Phone
+        - generic [ref=e248]:
+          - textbox [ref=e249]
+          - generic: Student Email
+        - generic [ref=e250]:
+          - generic [ref=e252]: Gender
+          - generic [ref=e253] [cursor=pointer]:
+            - radio "Male" [ref=e254]
+            - text: Male
+          - generic [ref=e255] [cursor=pointer]:
+            - radio "Female" [ref=e256]
+            - text: Female
+        - generic [ref=e258]:
+          - textbox [ref=e259]
+          - generic:
+            - generic: 
+            - text: Date of Birth
+        - generic [ref=e261]:
+          - textbox [ref=e262]
+          - generic: Student Aadhar Card No.
+        - generic [ref=e264]:
+          - textbox [ref=e265]
+          - generic: Father Name
+        - generic [ref=e267]:
+          - textbox [ref=e268]
+          - generic: Father Phone
+        - generic [ref=e270]:
+          - textbox [ref=e271]
+          - generic: Father Email
+        - generic [ref=e273]:
+          - textbox [ref=e274]
+          - generic: Father Aadhar Number
+        - generic [ref=e276]:
+          - textbox [ref=e277]
+          - generic: Mother Name
+        - generic [ref=e279]:
+          - textbox [ref=e280]
+          - generic: Mother Phone
+        - generic [ref=e282]:
+          - textbox [ref=e283]
+          - generic: Mother Email
+        - generic [ref=e285]:
+          - textbox [ref=e286]
+          - generic: Mother Aadhar Number
+        - generic [ref=e288]:
+          - textbox [ref=e289]
+          - generic: Guardian Name
+        - generic [ref=e291]:
+          - textbox [ref=e292]
+          - generic: Guardian Phone
+        - generic [ref=e294]:
+          - textbox [ref=e295]
+          - generic: Guardian Email
+        - generic [ref=e297]:
+          - textbox [ref=e298]
+          - generic: Guardian Aadhar Number
+        - generic [ref=e300]:
+          - textbox [ref=e301]
+          - generic: Mother tongue
+        - generic [ref=e302]:
+          - generic [ref=e304]: User Login Permitions
+          - generic [ref=e305] [cursor=pointer]:
+            - radio "Father" [ref=e306]
+            - text: Father
+          - generic [ref=e307] [cursor=pointer]:
+            - radio "Mother" [ref=e308]
+            - text: Mother
+          - generic [ref=e309] [cursor=pointer]:
+            - radio "Guardian" [ref=e310]
+            - text: Guardian
+        - generic [ref=e312]:
+          - textbox [ref=e313]
+          - generic: Child ID
+        - generic [ref=e315]:
+          - textbox [ref=e316]
+          - generic: Govt Child ID
+        - generic [ref=e318]:
+          - textbox [ref=e319]
+          - generic: Bank Account Number
+        - generic [ref=e321]:
+          - textbox [ref=e322]
+          - generic: IFSC Code
+        - generic [ref=e324]:
+          - textbox [ref=e325]
+          - generic: Bank Name
+        - generic [ref=e327]:
+          - textbox [ref=e328]
+          - generic: Moles
+        - generic [ref=e330]:
+          - textbox [ref=e331]
+          - generic: Address
+        - generic [ref=e333]:
+          - generic [ref=e334]: Religion
+          - combobox [ref=e335]:
+            - option "Select Religion" [disabled] [selected]
+            - option "Hindu"
+            - option "Christians"
+            - option "Muslims"
+            - option "Islam"
+            - option "Jains"
+            - option "Sikhs"
+            - option "Others"
+        - generic [ref=e337]:
+          - generic [ref=e338]: Caste
+          - combobox [ref=e339]:
+            - option "Select Caste" [disabled] [selected]
+            - option "OC"
+            - option "BC"
+            - option "SC"
+            - option "ST"
+            - option "BC-A"
+            - option "BC-B"
+            - option "BC-C"
+            - option "BC-D"
+            - option "BC-E"
+            - option "OBC"
+            - option "SBC"
+            - option "RC"
+            - option "General"
+            - option "EBC"
+            - option "Others"
+        - generic [ref=e341]:
+          - textbox [ref=e342]
+          - generic: Pincode
+        - generic [ref=e344]:
+          - textbox [ref=e345]
+          - generic: Sub Caste
+        - generic [ref=e347]:
+          - textbox [ref=e348]
+          - generic: Joining Class, Academic Year (Ex:Class 6-16)
+        - generic [ref=e350]:
+          - textbox [ref=e351]
+          - generic: Ending Class, Academic Year (Ex:Class 6-16)
+        - generic [ref=e353]:
+          - generic [ref=e355]: If too many students to add?
+          - link " Add Multiple Students at Once " [ref=e357] [cursor=pointer]:
+            - /url: unsafe:javascript:void();
+            - paragraph [ref=e358] [cursor=pointer]:
+              - generic [ref=e359] [cursor=pointer]: 
+              - text: Add Multiple Students at Once
+              - generic [ref=e360] [cursor=pointer]: 
+        - generic [ref=e361]:
+          - button "Add Students" [ref=e362] [cursor=pointer]
+          - button "Cancel" [ref=e363] [cursor=pointer]
+    - text: 
+```

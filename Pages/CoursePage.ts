@@ -14,6 +14,9 @@ export class CoursePage{
     private playButton: Locator
     private readonly iframeSelector = '(//iframe)[1]'
     private readonly playButtonSelector = '.PlayButton_module_playIcon__c3cfd43a'
+    private readonly lessonPlanTabsSelector = '.overflow'
+    private lessonPlanTabs: Locator
+
 
      constructor(page: Page){
         this.page = page
@@ -25,8 +28,9 @@ export class CoursePage{
         this.rightArrow = page.locator('.course-oval-1') 
         this.videoIframe = page.locator(this.iframeSelector)
         this.playButton = page.frameLocator(this.iframeSelector).locator(this.playButtonSelector)
-
+        this.lessonPlanTabs = page.locator(this.lessonPlanTabsSelector)
     }
+    
 
  async LunchUrl(url: string){
     this.page.goto(url)
@@ -38,9 +42,18 @@ async getCouresDetails(){
     await this.selectClass
     await this.selectSubject
     await this.selectContent
-    await this.rightArrow.click()
-   
+    await this.rightArrow.click()   
 }
+
+async lessonPlantab(){
+   const tabCount = await this.lessonPlanTabs.count()
+   for(let i = 0; i < tabCount; i++){
+      // Example: await this.lessonPlanTabs.nth(i).click()
+   } 
+}
+
+
+
 
 async frameHandle(){
 //    console.log(`Waiting for iframe: ${this.iframeSelector} to appear...`)
