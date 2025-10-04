@@ -1,4 +1,4 @@
-import { test } from '@playwright/test'
+import { expect, test } from '@playwright/test'
 import loginData from '../TestData/Login.json'
 import StudentDetails  from '../TestData/StudentDetails.json'
 import { LoginPage } from '../Pages/LoginPage'
@@ -20,4 +20,6 @@ test("Student Page Test Case", async ({ page })=>{
     studentPage.getStudentDetails()
     await page.waitForTimeout(1000)
     await studentPage.addNewStudents(StudentDetails.admissionNumber, StudentDetails.rollNumber, StudentDetails.studentName)
+    await studentPage.verifyStudentAdded(StudentDetails.studentName);
 })
+  

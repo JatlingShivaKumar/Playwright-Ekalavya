@@ -1,7 +1,10 @@
-import { Page, Locator } from '@playwright/test'
+import { Page, Locator, expect } from '@playwright/test'
 
 
 export class StudentPage{
+    studentNameInput(studentNameInput: any) {
+        throw new Error('Method not implemented.')
+    }
     private page: Page
     private studentDetails: Locator
     private selectCourse
@@ -16,9 +19,8 @@ export class StudentPage{
     private studentName
     private gender
     private addStudent
-
-
-   
+    private backButton
+    private searchBox   
 
     constructor(page: Page){
         this.page = page
@@ -34,6 +36,8 @@ export class StudentPage{
         this.studentName = page.locator("input[ng-model='studentsArrObj.studentName']")
         this.gender = page.locator('input[type="radio"][value="M"]')
         this.addStudent = page.locator(".btn.btn-success[ng-click='saveStudents()']")
+        this.backButton = page.locator("i[ng-click='closeVerifyPopup()']")
+        this.searchBox = page.getByPlaceholder("Search Students")
     }
 
     async LunchUrl(url: string){
@@ -58,8 +62,15 @@ export class StudentPage{
     await this.studentName.fill(studentName)
     await this.gender.check()
     await this.addStudent.click()
+    await this.backButton.click()
+    await this.searchBox.fill(studentName) 
+     
    }
 
+async verifyStudentAdded(studentName: string) {
+     await this.page.waitForSelector(`text=${studentName}`);
+     await expect(this.page.locator(`text=${studentName}`)).toBeVisible();
+}
 
 
 
