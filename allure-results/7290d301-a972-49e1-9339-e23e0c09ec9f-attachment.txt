@@ -1,0 +1,60 @@
+❌ Failed to check class "Class 7": locator.selectOption: Test ended.
+Call log:
+  - waiting for locator('select[ng-model="selectedClassOb"]')
+    - locator resolved to <select ng-model="selectedClassOb" ng-change="courseClassSelect(selectedClassOb)" class="form-control sectionSelect w-100 removeSidePadding ng-untouched ng-valid ng-not-empty ng-dirty ng-valid-parse">…</select>
+  - attempting select option action
+    - waiting for element to be visible and enabled
+
+    at EkalavyaPage.verifyAllClasses (F:\PlaywrightEkalavya2025\Pages\EkalavyaPage.ts:76:27) {
+  name: 'Error',
+  [Symbol(step)]: {
+    location: {
+      file: 'F:\\PlaywrightEkalavya2025\\Pages\\EkalavyaPage.ts',
+      line: 76,
+      column: 27,
+      function: 'EkalavyaPage.verifyAllClasses'
+    },
+    category: 'pw:api',
+    title: `Select option locator('select[ng-model="selectedClassOb"]')`,
+    apiName: 'locator.selectOption',
+    params: {
+      selector: 'select[ng-model="selectedClassOb"]',
+      options: [Array],
+      strict: true,
+      timeout: 0
+    },
+    group: undefined,
+    stepId: 'pw:api@49',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@49',
+      _title: `Select option locator('select[ng-model="selectedClassOb"]')`,
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    recoverFromStepError: [AsyncFunction: recoverFromStepError],
+    complete: [Function: complete],
+    endWallTime: 1759749522963,
+    error: {
+      message: 'Error: locator.selectOption: Test ended.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('select[ng-model="selectedClassOb"]')\x1B[22m\n` +
+        '\x1B[2m    - locator resolved to <select ng-model="selectedClassOb" ng-change="courseClassSelect(selectedClassOb)" class="form-control sectionSelect w-100 removeSidePadding ng-untouched ng-valid ng-not-empty ng-dirty ng-valid-parse">…</select>\x1B[22m\n' +
+        '\x1B[2m  - attempting select option action\x1B[22m\n' +
+        '\x1B[2m    - waiting for element to be visible and enabled\x1B[22m\n',
+      stack: 'Error: locator.selectOption: Test ended.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('select[ng-model="selectedClassOb"]')\x1B[22m\n` +
+        '\x1B[2m    - locator resolved to <select ng-model="selectedClassOb" ng-change="courseClassSelect(selectedClassOb)" class="form-control sectionSelect w-100 removeSidePadding ng-untouched ng-valid ng-not-empty ng-dirty ng-valid-parse">…</select>\x1B[22m\n' +
+        '\x1B[2m  - attempting select option action\x1B[22m\n' +
+        '\x1B[2m    - waiting for element to be visible and enabled\x1B[22m\n' +
+        '\n' +
+        '    at EkalavyaPage.verifyAllClasses (F:\\PlaywrightEkalavya2025\\Pages\\EkalavyaPage.ts:76:27)',
+      cause: undefined
+    }
+  }
+}

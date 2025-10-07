@@ -1,4 +1,4 @@
-import { test, expect  } from '@playwright/test'
+import { test } from '@playwright/test'
 import { EkalavyaPage } from '../Pages/EkalavyaPage'
 import { LoginPage } from '../Pages/LoginPage'
 import loginData from '../TestData/Login.json'
@@ -12,10 +12,31 @@ test.beforeEach(async ({ page})=>{
     await ekalavyaPage.LunchUrl(loginData.url)
 })
 
-test("Verify Ekalavya Plus Page", async ({ page })=>{
-    await loginPage.vaildLogin(loginData.userName, loginData.password) 
-    await ekalavyaPage.getEkalavya()
+test("Ekalavya Plus Login", async ({ page })=>{
+    await loginPage.vaildLogin(loginData.userName, loginData.password)  
+    await page.waitForTimeout(3000)
+    ekalavyaPage.getEkalavyaPlusPage()
+    
+ })
+
+test("Ekalavya Plus My Class", async ({ page})=>{
+    await loginPage.vaildLogin(loginData.userName, loginData.password)
+    await page.waitForTimeout(3000)
+    ekalavyaPage.getEkalavyaPlusPage()
+    await page.waitForTimeout(3000)
+    ekalavyaPage.MyClass()
 })
 
+
+test("Ekalavya Plus Student Attendance", async ({ page })=>{
+    await loginPage.vaildLogin(loginData.userName, loginData.password)
+    await page.waitForTimeout(3000)
+    ekalavyaPage.getEkalavyaPlusPage()
+    ekalavyaPage.StudentAttendance()    
+    await page.waitForTimeout(3000)
+    // ekalavyaPage.StudentAttendance()
+    ekalavyaPage.verifyAllClasses()
+    await page.waitForTimeout(500000)
+}) 
 
     

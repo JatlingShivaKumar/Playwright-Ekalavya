@@ -1,0 +1,5 @@
+❌ Failed to verify Class 4: page.waitForTimeout: Test timeout of 30000ms exceeded.
+❌ Failed to verify Class 5: locator.waitFor: Target page, context or browser has been closed
+❌ Failed to verify Nursery: locator.waitFor: Target page, context or browser has been closed
+❌ Failed to verify LKG: locator.waitFor: Target page, context or browser has been closed
+❌ Failed to verify UKG: locator.waitFor: Target page, context or browser has been closed

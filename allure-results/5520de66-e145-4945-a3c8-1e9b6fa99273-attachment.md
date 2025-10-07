@@ -1,0 +1,128 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - banner:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e6]:
+          - generic [ref=e7]:
+            - link [ref=e8] [cursor=pointer]:
+              - /url: "#!/dashboard"
+              - img [ref=e9] [cursor=pointer]
+            - generic [ref=e10]:
+              - button "Search Students" [ref=e11] [cursor=pointer]: Search Students
+              - text: 
+          - generic [ref=e14]:
+            - generic [ref=e16] [cursor=pointer]:
+              - text: Settings
+              - generic [ref=e17] [cursor=pointer]: 
+            - list:
+              - generic:
+                - generic: 
+                - text: Profile
+              - generic:
+                - generic: 
+                - text: Log Out
+        - generic [ref=e18]:
+          - generic [ref=e20]:
+            - generic [ref=e21]: Branch
+            - combobox "Branch" [ref=e22] [cursor=pointer]:
+              - option "AP DEMO SCHOOL" [selected]
+          - generic [ref=e23]:
+            - generic:
+              - list:
+                - listitem [ref=e24]:
+                  - generic [ref=e26] [cursor=pointer]: 
+                - listitem [ref=e27]:
+                  - generic [ref=e28] [cursor=pointer]: EXAMS
+                - listitem [ref=e29]:
+                  - generic [ref=e30] [cursor=pointer]: COURSE
+                - listitem [ref=e31]:
+                  - generic [ref=e32] [cursor=pointer]: STUDENTS
+                - listitem [ref=e33]:
+                  - generic [ref=e34] [cursor=pointer]: ANALYTICS
+                - listitem
+                - listitem [ref=e35]:
+                  - generic [ref=e36] [cursor=pointer]: EkaLavya+
+                - listitem [ref=e37]:
+                  - generic [ref=e38] [cursor=pointer]: EkaLavya Learning Store
+  - generic [ref=e40]:
+    - generic:
+      - generic [ref=e41]:
+        - generic [ref=e43]:
+          - generic [ref=e44] [cursor=pointer]:
+            - img [ref=e45] [cursor=pointer]
+            - paragraph [ref=e46] [cursor=pointer]: Go Back to Ekalavya+
+            - paragraph [ref=e47] [cursor=pointer]: Student Attendance
+          - generic [ref=e48]:
+            - generic [ref=e49]:
+              - generic [ref=e51]:
+                - paragraph [ref=e52]: Course
+                - combobox [ref=e53] [cursor=pointer]:
+                  - option "-- Select Course --" [disabled]
+                  - option "TS SSC"
+                  - option "AP SSC" [selected]
+              - generic [ref=e55]:
+                - paragraph [ref=e56]: Class
+                - combobox [ref=e57] [cursor=pointer]:
+                  - option "-- Select Class --" [disabled]
+                  - option "Class 6"
+                  - option "Class 7"
+                  - option "Class 8"
+                  - option "Class 9"
+                  - option "Class 10"
+                  - option "Class 1"
+                  - option "Class 2"
+                  - option "Class 3"
+                  - option "Class 4"
+                  - option "Class 5" [selected]
+                  - option "Nursery"
+                  - option "LKG"
+                  - option "UKG"
+            - generic [ref=e58]:
+              - paragraph [ref=e59]: Showing Sections
+              - generic:
+                - generic [ref=e62]: A
+                - generic [ref=e65] [cursor=pointer]: B
+                - generic [ref=e68] [cursor=pointer]: Hussain
+        - generic [ref=e70]:
+          - generic [ref=e76]: "Section: A"
+          - generic [ref=e77]:
+            - generic [ref=e79] [cursor=pointer]:
+              - img [ref=e81] [cursor=pointer]
+              - generic [ref=e82] [cursor=pointer]: Take Attendance
+              - generic [ref=e84] [cursor=pointer]: keyboard_arrow_right
+            - generic [ref=e86] [cursor=pointer]:
+              - img [ref=e88] [cursor=pointer]
+              - generic [ref=e89] [cursor=pointer]: Open Attendance History
+              - generic [ref=e91] [cursor=pointer]: keyboard_arrow_right
+          - separator [ref=e92]
+          - generic [ref=e93]:
+            - heading "Today's Attendance Info" [level=4] [ref=e95]
+            - generic [ref=e96]:
+              - generic [ref=e98]:
+                - heading "Late" [level=5] [ref=e99]
+                - heading "0" [level=4] [ref=e100]
+              - generic [ref=e102]:
+                - heading "Present" [level=5] [ref=e103]
+                - heading "0" [level=4] [ref=e104]
+              - generic [ref=e106]:
+                - heading "Absent" [level=5] [ref=e107]
+                - heading "0" [level=4] [ref=e108]
+            - generic [ref=e110]:
+              - generic [ref=e112]:
+                - heading "Monthwise Attendance Summary" [level=4] [ref=e114]
+                - generic [ref=e122]:
+                  - generic [ref=e123]:
+                    - generic [ref=e125]: Present/Late%
+                    - generic [ref=e126]: 0.00 / 0.00
+                  - generic [ref=e127]:
+                    - generic [ref=e129]: Late
+                    - generic [ref=e130]: "0"
+                  - generic [ref=e131]:
+                    - generic [ref=e133]: Absent%
+                    - generic [ref=e134]: "0.00"
+              - text: 
+      - text: 
+```

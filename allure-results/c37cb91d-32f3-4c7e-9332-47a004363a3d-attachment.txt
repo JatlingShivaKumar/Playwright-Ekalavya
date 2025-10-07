@@ -1,0 +1,38 @@
+❌ Failed to check class "Class 6": page.waitForTimeout: Test ended.
+    at EkalavyaPage.verifyAllClasses (F:\PlaywrightEkalavya2025\Pages\EkalavyaPage.ts:79:23) {
+  name: 'Error',
+  [Symbol(step)]: {
+    location: {
+      file: 'F:\\PlaywrightEkalavya2025\\Pages\\EkalavyaPage.ts',
+      line: 79,
+      column: 23,
+      function: 'EkalavyaPage.verifyAllClasses'
+    },
+    category: 'pw:api',
+    title: 'Wait for timeout',
+    apiName: 'page.waitForTimeout',
+    params: { waitTimeout: 2000 },
+    group: undefined,
+    stepId: 'pw:api@47',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@47',
+      _title: 'Wait for timeout',
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    recoverFromStepError: [AsyncFunction: recoverFromStepError],
+    complete: [Function: complete],
+    endWallTime: 1759749024221,
+    error: {
+      message: 'Error: page.waitForTimeout: Test ended.',
+      stack: 'Error: page.waitForTimeout: Test ended.\n' +
+        '    at EkalavyaPage.verifyAllClasses (F:\\PlaywrightEkalavya2025\\Pages\\EkalavyaPage.ts:79:23)',
+      cause: undefined
+    }
+  }
+}

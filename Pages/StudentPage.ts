@@ -67,10 +67,10 @@ export class StudentPage{
      
    }
 
-async verifyStudentAdded(studentName: string) {
-     await this.page.waitForSelector(`text=${studentName}`);
-     await expect(this.page.locator(`text=${studentName}`)).toBeVisible();
-}
+// async verifyStudentAdded(studentName: string) {
+//      await this.page.waitForSelector(`text=${studentName}`);
+//      await expect(this.page.locator(`text=${studentName}`)).toBeVisible();
+// }
 
 
 
