@@ -1,0 +1,101 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - banner:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e6]:
+          - generic [ref=e7]:
+            - link [ref=e8] [cursor=pointer]:
+              - /url: "#!/dashboard"
+              - img [ref=e9] [cursor=pointer]
+            - generic [ref=e10]:
+              - button "Search Students" [ref=e11] [cursor=pointer]: Search Students
+              - text: 
+          - generic [ref=e14]:
+            - generic [ref=e16] [cursor=pointer]:
+              - text: Settings
+              - generic [ref=e17] [cursor=pointer]: 
+            - list:
+              - generic:
+                - generic: 
+                - text: Profile
+              - generic:
+                - generic: 
+                - text: Log Out
+        - generic [ref=e18]:
+          - generic [ref=e20]:
+            - generic [ref=e21]: Branch
+            - combobox "Branch" [ref=e22] [cursor=pointer]:
+              - option "AP DEMO SCHOOL" [selected]
+          - generic [ref=e23]:
+            - generic:
+              - list:
+                - listitem [ref=e24]:
+                  - generic [ref=e26] [cursor=pointer]: 
+                - listitem [ref=e27]:
+                  - generic [ref=e28] [cursor=pointer]: EXAMS
+                - listitem [ref=e29]:
+                  - generic [ref=e30] [cursor=pointer]: COURSE
+                - listitem [ref=e31]:
+                  - generic [ref=e32] [cursor=pointer]: STUDENTS
+                - listitem [ref=e33]:
+                  - generic [ref=e34] [cursor=pointer]: ANALYTICS
+                - listitem
+                - listitem [ref=e35]:
+                  - generic [ref=e36] [cursor=pointer]: EkaLavya+
+                - listitem [ref=e37]:
+                  - generic [ref=e38] [cursor=pointer]: EkaLavya Learning Store
+  - generic [ref=e41]:
+    - generic [ref=e42]:
+      - generic [ref=e44]:
+        - generic [ref=e45] [cursor=pointer]:
+          - img [ref=e46] [cursor=pointer]
+          - paragraph [ref=e47] [cursor=pointer]: Go Back to Ekalavya+
+          - paragraph [ref=e48] [cursor=pointer]: Homework & Dairy
+        - generic [ref=e49]:
+          - generic [ref=e50]:
+            - paragraph [ref=e51]: Course
+            - combobox [ref=e52] [cursor=pointer]:
+              - option "Select" [disabled]
+              - option "TS SSC" [selected]
+              - option "AP SSC"
+          - generic [ref=e53]:
+            - paragraph [ref=e54]: Class
+            - combobox [ref=e55] [cursor=pointer]:
+              - option "Select" [disabled]
+              - option "Class 6"
+              - option "Class 7"
+              - option "Class 8"
+              - option "Class 9"
+              - option "Class 10"
+              - option "Class 1"
+              - option "Class 2"
+              - option "Class 3" [selected]
+              - option "Class 4"
+              - option "Class 5"
+              - option "Nursery"
+              - option "LKG"
+              - option "UKG"
+        - generic [ref=e57]:
+          - paragraph [ref=e59]: Showing Sections
+          - generic [ref=e63]: A
+      - generic [ref=e67] [cursor=pointer]: + New
+      - separator [ref=e69]
+      - generic [ref=e70]:
+        - generic [ref=e72]:
+          - generic [ref=e73]:
+            - generic [ref=e74]:
+              - generic [ref=e78]: TS SSC
+              - generic [ref=e81]: Class 3
+            - generic [ref=e83]: "Section: A"
+          - textbox [ref=e85]
+          - generic [ref=e87]:
+            - textbox "Search" [ref=e88]
+            - generic [ref=e89]: 
+        - generic [ref=e92]:
+          - generic [ref=e93]: Homeworks created in this month are none.
+          - generic [ref=e94] [cursor=pointer]: Add new Homework.
+    - text: 
+```

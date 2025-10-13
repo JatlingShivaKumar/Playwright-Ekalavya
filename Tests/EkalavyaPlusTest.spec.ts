@@ -35,8 +35,24 @@ test("Ekalavya Plus Student Attendance", async ({ page })=>{
     ekalavyaPage.StudentAttendance()    
     await page.waitForTimeout(3000)
     // ekalavyaPage.StudentAttendance()
-    ekalavyaPage.verifyAllClasses()
+    ekalavyaPage.verifyAllClassesForStudentAttendance()
     await page.waitForTimeout(500000)
 }) 
 
     
+test("Ekalavya Plus Homework/Assignment", async ({ page })=>{
+    await loginPage.vaildLogin(loginData.userName, loginData.password)
+    await page.waitForTimeout(3000)
+    ekalavyaPage.getEkalavyaPlusPage()
+    ekalavyaPage.homeworkAssignments()
+    await page.waitForTimeout(3000)
+    ekalavyaPage.verifyAllClassesForHomeworkAssignments()
+    await page.waitForTimeout(500000)
+})
+
+test("Ekalavya Plus Fee Mangement", async ({ page })=>{
+    await loginPage.vaildLogin(loginData.userName, loginData.password)
+    await page.waitForTimeout(3000)
+    ekalavyaPage.getEkalavyaPlusPage()
+    ekalavyaPage.FeeMangement()
+})
