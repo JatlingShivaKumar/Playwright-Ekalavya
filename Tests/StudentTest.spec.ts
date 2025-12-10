@@ -11,16 +11,16 @@ let loginPage: LoginPage
 test.beforeEach(async ({ page})=>{
     studentPage = new StudentPage(page)
     loginPage = new LoginPage(page)
-    await studentPage.LunchUrl(loginData.url)
+    await studentPage.LunchUrl(loginData.admin.url)
 })
 
 test("Student Page Test Case", async ({ page })=>{
-    await loginPage.vaildLogin(loginData.userName, loginData.password) 
+    await loginPage.vaildLogin(loginData.admin.userName, loginData.admin.password)
     await page.waitForTimeout(4000)
     studentPage.getStudentDetails()
     await page.waitForTimeout(1000)
     await studentPage.addNewStudents(StudentDetails.admissionNumber, StudentDetails.rollNumber, StudentDetails.studentName)
     await page.waitForTimeout(3000)
-    // await studentPage.verifyStudentAdded(StudentDetails.studentName);
+    // await studentPage.verifyStudentAdded(StudentDetails.studentName)
 })
   

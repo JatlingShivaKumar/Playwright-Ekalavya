@@ -1,0 +1,54 @@
+title: "Copilot Instructions for QEdge Playwright 2025 Project"
+language: "TypeScript"
+project_overview: |
+  This is a TypeScript-based Playwright automation project for end-to-end
+  UI and API testing. The codebase is organized by feature and test type,
+  with a focus on modular Page Object Model (POM) patterns and reusable
+  test data.
+
+key_directories:
+  Pages: "Page Object Model classes (e.g., DashboardPage.ts, LoginPage.ts)"
+  tests: "Main test specs for core flows (e.g., LoginPageTest.spec.ts)"
+  testing: "Additional or example specs for Playwright features and edge cases"
+  TestData: "JSON and text files for test data (e.g., login.json, products.json)"
+  playwright_config: "Playwright config file `playwright.config.ts`"
+  reports: "playwright-report/, allure-results/, test-results/"
+
+developer_workflows:
+  run_all_tests: "npx playwright test"
+  run_specific_test: "npx playwright test tests/LoginPageTest.spec.ts"
+  view_html_report: "npx playwright show-report"
+  debug_test: "npx playwright test --debug"
+  install_browsers: "npx playwright install"
+
+patterns_and_conventions:
+  page_object_model: "Encapsulate page interactions in classes under `Pages/`. Expose methods for UI actions and assertions."
+  test_data: "Use files in `TestData/` for parameterized tests; load via Node.js `fs` or Playwright fixtures."
+  spec_naming: "Use `.spec.ts` suffix and group by feature or scenario."
+  reporting: "Artifacts (screenshots, videos, traces) saved in `playwright-report/` and `test-results/`."
+  typescript: "Use ES modules and async/await for Playwright APIs."
+
+integration_points:
+  - Playwright: "Main test runner and automation framework"
+  - Node: "Used for data loading and utility scripts"
+
+examples:
+  - add_page: "Create a class in `Pages/` and expose methods for each UI action."
+  - add_test: "Create a `.spec.ts` file in `tests/` or `testing/` and import relevant page objects and test data."
+
+quick_start:
+  prerequisites:
+    - "Node.js and npm installed"
+  install_dependencies: "npm install"
+  run_all_tests: "npx playwright test"
+  view_report: "npx playwright show-report"
+
+notes: |
+  - Follow the POM pattern for maintainability.
+  - Keep test data separate from test code.
+  - Prefer minimal and focused tests; reuse page objects.
+
+recommended_commands:
+  - "npm install"
+  - "npx playwright install"
+  - "npx playwright test"

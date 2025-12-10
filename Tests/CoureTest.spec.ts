@@ -12,14 +12,14 @@ let loginPage: LoginPage
 test.beforeEach(async ({ page })=>{
     coursePage = new CoursePage(page)
     loginPage = new LoginPage(page)
-    await coursePage.LunchUrl(loginData.url)
+    await coursePage.LunchUrl(loginData.admin.url)
 })
 
-test("Course Page Test Case", async ({ page })=>{
-    await loginPage.vaildLogin(loginData.userName, loginData.password)
-    await page.waitForTimeout(3000)
-    await coursePage.getCouresDetails()
-    await coursePage.frameHandle()
-    await page.waitForTimeout(1000)
+ test("Course Page Test Case",  ({ page })=>{
+     loginPage.vaildLogin(loginData.admin.userName, loginData.admin.password)
+     page.waitForTimeout(3000)
+     coursePage.getCouresDetails()
+     coursePage.frameHandle()
+     page.waitForTimeout(1000)
     
 })
