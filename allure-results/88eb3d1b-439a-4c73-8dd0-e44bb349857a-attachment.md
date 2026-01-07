@@ -1,0 +1,236 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - banner:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e6]:
+          - generic [ref=e7]:
+            - link [ref=e8] [cursor=pointer]:
+              - /url: "#!/dashboard"
+              - img [ref=e9] [cursor=pointer]
+            - generic [ref=e10]:
+              - button "Search Students" [ref=e11] [cursor=pointer]: Search Students
+              - text: 
+          - generic [ref=e14]:
+            - generic [ref=e16] [cursor=pointer]:
+              - text: Settings
+              - generic [ref=e17] [cursor=pointer]: 
+            - list:
+              - generic:
+                - generic: 
+                - text: Profile
+              - generic:
+                - generic: 
+                - text: Log Out
+        - generic [ref=e18]:
+          - generic [ref=e20]:
+            - generic [ref=e21]: Branch
+            - combobox "Branch" [ref=e22] [cursor=pointer]:
+              - option "AP DEMO SCHOOL" [selected]
+          - generic [ref=e23]:
+            - generic:
+              - list:
+                - listitem [ref=e24]:
+                  - generic [ref=e26] [cursor=pointer]: 
+                - listitem [ref=e27]:
+                  - generic [ref=e28] [cursor=pointer]: EXAMS
+                - listitem [ref=e29]:
+                  - generic [ref=e30] [cursor=pointer]: COURSE
+                - listitem [ref=e31]:
+                  - generic [ref=e32] [cursor=pointer]: STUDENTS
+                - listitem [ref=e33]:
+                  - generic [ref=e34] [cursor=pointer]: ANALYTICS
+                - listitem
+                - listitem [ref=e35]:
+                  - generic [ref=e36] [cursor=pointer]: EkaLavya+
+                - listitem [ref=e37]:
+                  - generic [ref=e38] [cursor=pointer]: EkaLavya Learning Store
+  - generic [ref=e41]:
+    - generic [ref=e43]:
+      - generic [ref=e45]:
+        - img [ref=e46]
+        - generic [ref=e47]: Good Evening ADEMObradmin4142
+        - generic [ref=e48]: 07:02:02 PM-Tuesday,6 January 2026
+      - generic [ref=e49]:
+        - generic [ref=e50]:
+          - generic [ref=e52]:
+            - generic [ref=e54]: CLASSES
+            - generic [ref=e57]:
+              - generic [ref=e58]: Course
+              - combobox [ref=e59] [cursor=pointer]:
+                - option "-- Select --" [disabled]
+                - option "TS SSC" [selected]
+                - option "AP SSC"
+          - generic [ref=e62]: SHORT CUTS
+        - generic [ref=e63]:
+          - generic [ref=e66]:
+            - generic [ref=e69] [cursor=pointer]: Class 6
+            - generic [ref=e72] [cursor=pointer]: Class 7
+            - generic [ref=e75] [cursor=pointer]: Class 8
+            - generic [ref=e78] [cursor=pointer]: Class 9
+            - generic [ref=e81] [cursor=pointer]: Class 10
+            - generic [ref=e84] [cursor=pointer]: Class 1
+            - generic [ref=e87] [cursor=pointer]: Class 2
+            - generic [ref=e90] [cursor=pointer]: Class 3
+            - generic [ref=e93] [cursor=pointer]: Class 4
+            - generic [ref=e96] [cursor=pointer]: Class 5
+            - generic [ref=e99] [cursor=pointer]: Nursery
+            - generic [ref=e102] [cursor=pointer]: LKG
+            - generic [ref=e105] [cursor=pointer]: UKG
+          - generic [ref=e106]:
+            - generic [ref=e109] [cursor=pointer]:
+              - img [ref=e111] [cursor=pointer]
+              - generic [ref=e112] [cursor=pointer]: Create new Exam
+            - generic [ref=e115] [cursor=pointer]:
+              - img [ref=e117] [cursor=pointer]
+              - generic [ref=e118] [cursor=pointer]: Calender & Events
+            - generic [ref=e121] [cursor=pointer]:
+              - img [ref=e123] [cursor=pointer]
+              - generic [ref=e124] [cursor=pointer]: Messages
+            - generic [ref=e127] [cursor=pointer]:
+              - img [ref=e129] [cursor=pointer]
+              - generic [ref=e130] [cursor=pointer]: Gallery
+        - generic [ref=e132]:
+          - generic [ref=e133]:
+            - generic [ref=e134]: Upcoming Live Classes
+            - generic [ref=e136]: No Live Class
+          - generic [ref=e137]:
+            - generic [ref=e138]: Upcoming Tests
+            - generic [ref=e139]: No Upcoming Tests.
+        - generic [ref=e141]:
+          - generic [ref=e142]: Calendar & Events
+          - separator [ref=e143]
+          - generic [ref=e144]:
+            - generic [ref=e145]:
+              - generic [ref=e148]: January 2026
+              - generic [ref=e150]:
+                - generic [ref=e151]:
+                  - generic [ref=e153]: Sun
+                  - generic [ref=e155]: Mon
+                  - generic [ref=e157]: Tue
+                  - generic [ref=e159]: Wed
+                  - generic [ref=e161]: Thu
+                  - generic [ref=e163]: Fri
+                  - generic [ref=e165]: Sat
+                - generic [ref=e166]:
+                  - generic [ref=e177]: "1"
+                  - generic [ref=e180]: "2"
+                  - generic [ref=e183]: "3"
+                - generic [ref=e184]:
+                  - generic [ref=e187]: "4"
+                  - generic [ref=e190]: "5"
+                  - generic [ref=e193]: "6"
+                  - generic [ref=e196]: "7"
+                  - generic [ref=e199]: "8"
+                  - generic [ref=e202]: "9"
+                  - generic [ref=e205]: "10"
+                - generic [ref=e206]:
+                  - generic [ref=e209]: "11"
+                  - generic [ref=e212]: "12"
+                  - generic [ref=e215]: "13"
+                  - generic [ref=e218]: "14"
+                  - generic [ref=e221]: "15"
+                  - generic [ref=e224]: "16"
+                  - generic [ref=e227]: "17"
+                - generic [ref=e228]:
+                  - generic [ref=e231]: "18"
+                  - generic [ref=e234]: "19"
+                  - generic [ref=e237]: "20"
+                  - generic [ref=e240]: "21"
+                  - generic [ref=e243]: "22"
+                  - generic [ref=e246]: "23"
+                  - generic [ref=e249]: "24"
+                - generic [ref=e250]:
+                  - generic [ref=e253]: "25"
+                  - generic [ref=e256]: "26"
+                  - generic [ref=e259]: "27"
+                  - generic [ref=e262]: "28"
+                  - generic [ref=e265]: "29"
+                  - generic [ref=e268]: "30"
+                  - generic [ref=e271]: "31"
+            - generic [ref=e272]:
+              - generic [ref=e273]: All Events & Activities
+              - generic [ref=e276]:
+                - generic [ref=e277]: No Events.
+                - generic [ref=e278] [cursor=pointer]: Add New
+        - generic [ref=e279]:
+          - generic [ref=e281]:
+            - generic [ref=e282]:
+              - generic [ref=e283]: Today’s Student Attendance
+              - generic [ref=e284]: Not Taken Yet
+            - combobox [ref=e287]:
+              - option "AP DEMO SCHOOL" [selected]
+            - generic [ref=e289]:
+              - generic [ref=e290]:
+                - generic [ref=e292] [cursor=pointer]: Overall Today
+                - generic [ref=e293]:
+                  - generic [ref=e294]:
+                    - paragraph [ref=e295]: Present
+                    - generic [ref=e296]: "0"
+                  - generic [ref=e297] [cursor=pointer]:
+                    - paragraph [ref=e299] [cursor=pointer]:
+                      - text: Late
+                      - img [ref=e300] [cursor=pointer]
+                    - generic [ref=e301] [cursor=pointer]: "0"
+                  - generic [ref=e302] [cursor=pointer]:
+                    - paragraph [ref=e304] [cursor=pointer]:
+                      - text: Absent
+                      - img [ref=e305] [cursor=pointer]
+                    - generic [ref=e306] [cursor=pointer]: "0"
+              - generic [ref=e307]:
+                - generic [ref=e308]: Present %
+                - generic [ref=e309]: "0"
+          - generic [ref=e311]:
+            - generic [ref=e312]:
+              - generic [ref=e313]:
+                - generic [ref=e314]: Today’s Staff Attendance
+                - generic [ref=e315]: Not Taken Yet
+              - combobox [ref=e318]:
+                - option "AP DEMO SCHOOL" [selected]
+            - generic [ref=e320]:
+              - generic [ref=e321]:
+                - generic [ref=e323] [cursor=pointer]: Overall Today
+                - generic [ref=e324]:
+                  - generic [ref=e325]:
+                    - paragraph [ref=e326]: Present
+                    - generic [ref=e327]: "0"
+                  - generic [ref=e328] [cursor=pointer]:
+                    - paragraph [ref=e330] [cursor=pointer]:
+                      - text: Late
+                      - img [ref=e331] [cursor=pointer]
+                    - generic [ref=e332] [cursor=pointer]: "0"
+                  - generic [ref=e333] [cursor=pointer]:
+                    - paragraph [ref=e335] [cursor=pointer]:
+                      - text: Absent
+                      - img [ref=e336] [cursor=pointer]
+                    - generic [ref=e337] [cursor=pointer]: "0"
+              - generic [ref=e338]:
+                - generic [ref=e339]: Present %
+                - generic [ref=e340]: "0"
+          - generic [ref=e342]:
+            - generic [ref=e343]: Today's Pending Leave Requests
+            - separator [ref=e344]
+            - generic [ref=e345]:
+              - generic [ref=e346]: "0"
+              - generic [ref=e347]:
+                - img [ref=e349]
+                - paragraph [ref=e351]:
+                  - strong [ref=e352]: Student Leave Requests
+                - link "View All" [ref=e355] [cursor=pointer]:
+                  - /url: ""
+                  - img [ref=e357] [cursor=pointer]
+                  - generic [ref=e358] [cursor=pointer]: View All
+            - generic [ref=e359]: "0"
+            - generic [ref=e360]:
+              - img [ref=e362]
+              - paragraph [ref=e364]:
+                - strong [ref=e365]: Staff Leave Requests
+              - link "View All" [ref=e368] [cursor=pointer]:
+                - /url: ""
+                - img [ref=e370] [cursor=pointer]
+                - generic [ref=e371] [cursor=pointer]: View All
+    - text:  
+    - text:            
+```

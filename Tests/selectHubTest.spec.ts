@@ -6,12 +6,10 @@ let hubPage: HubPage
 
 test.beforeEach(async ({ page })=>{
     hubPage = new HubPage(page)
-    await hubPage.LunchUrl(loginData.page.url)
-
+    await hubPage.LunchUrl(loginData.hub.url)
+    
 })
 
 test("select hub page", async ({ page })=>{
-      await hubPage.practicePage()
-
-    
+      await hubPage.practicePage()    
 })

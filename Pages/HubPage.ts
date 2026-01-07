@@ -7,6 +7,7 @@ export class HubPage {
     private page
     private PracticePage
     private form
+    static hub: any
 
 
 

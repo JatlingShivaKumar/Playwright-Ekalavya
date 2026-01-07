@@ -2,13 +2,18 @@ import { test } from '@playwright/test'
 import { EkalavyaPage } from '../Pages/EkalavyaPage'
 import { LoginPage } from '../Pages/LoginPage'
 import loginData from '../TestData/Login.json'
+import { HubPage } from '../Pages/HubPage'
+
+
 
 let ekalavyaPage: EkalavyaPage
 let loginPage: LoginPage
+let hubPage: HubPage
 
 test.beforeEach(async ({ page }) => {
     ekalavyaPage = new EkalavyaPage(page)
     loginPage = new LoginPage(page)
+    hubPage = new HubPage(page)    
     await ekalavyaPage.LunchUrl(loginData.admin.url)
 })
 
@@ -57,3 +62,9 @@ test("Ekalavya Plus Fee Management", async ({ page }) => {
     await ekalavyaPage.FeeMangement()
 })
 
+test("select hub page", async ({ page }) => {
+      await hubPage.practicePage()    
+})
+// https://ekalavya.online/admin.html
+
+// https://selectorshub.com/
