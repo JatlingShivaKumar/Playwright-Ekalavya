@@ -47,18 +47,44 @@
                   - generic [ref=e36] [cursor=pointer]: EkaLavya+
                 - listitem [ref=e37]:
                   - generic [ref=e38] [cursor=pointer]: EkaLavya Learning Store
-  - generic [ref=e43]:
-    - generic [ref=e44]:
-      - generic [ref=e45] [cursor=pointer]:
-        - img [ref=e46] [cursor=pointer]
-        - paragraph [ref=e47] [cursor=pointer]: Go to Dashbord
-      - generic [ref=e48]: Fee Receipts History
-    - generic [ref=e50]:
-      - generic [ref=e51]:
-        - generic [ref=e52]: From Date
-        - textbox [ref=e53]
-      - generic [ref=e54]:
-        - generic [ref=e55]: To Date
-        - textbox [ref=e56]
-      - generic [ref=e59] [cursor=pointer]: arrow_forward
+  - generic [ref=e40]:
+    - generic:
+      - generic [ref=e41]:
+        - generic [ref=e43]:
+          - generic [ref=e44] [cursor=pointer]:
+            - img [ref=e45] [cursor=pointer]
+            - paragraph [ref=e46] [cursor=pointer]: Go Back to Ekalavya+
+            - paragraph [ref=e47] [cursor=pointer]: Student Attendance
+          - generic [ref=e48]:
+            - generic [ref=e49]:
+              - generic [ref=e51]:
+                - paragraph [ref=e52]: Course
+                - combobox [ref=e53] [cursor=pointer]:
+                  - option "-- Select Course --" [disabled]
+                  - option "TS SSC" [selected]
+                  - option "AP SSC"
+              - generic [ref=e55]:
+                - paragraph [ref=e56]: Class
+                - combobox [ref=e57] [cursor=pointer]:
+                  - option "-- Select Class --" [disabled]
+                  - option "Class 6"
+                  - option "Class 7"
+                  - option "Class 8"
+                  - option "Class 9"
+                  - option "Class 10"
+                  - option "Class 1"
+                  - option "Class 2"
+                  - option "Class 3"
+                  - option "Class 4" [selected]
+                  - option "Class 5"
+                  - option "Nursery"
+                  - option "LKG"
+                  - option "UKG"
+            - generic [ref=e58]:
+              - paragraph [ref=e59]: Showing Sections
+              - generic [ref=e62]: A
+        - generic [ref=e65]:
+          - img "Responsive image" [ref=e67] [cursor=pointer]
+          - generic [ref=e68] [cursor=pointer]: This section does not have any students, Please go to students and Add
+      - text: 
 ```
