@@ -1,0 +1,1542 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - heading "Get free access to our advanced XPath & CSS course. Ends in -" [level=5] [ref=e7]:
+          - link "Get free access to our advanced XPath & CSS course. Ends in -" [ref=e8] [cursor=pointer]:
+            - /url: https://selectorshub.com/get-free-access-of-advanced-xpath-and-css-selector-paid-course/
+        - generic [ref=e10]:
+          - generic [ref=e11]:
+            - generic [ref=e12]: "09"
+            - generic [ref=e13]: Hrs
+          - generic [ref=e14]:
+            - generic [ref=e15]: "59"
+            - generic [ref=e16]: Min
+          - generic [ref=e17]:
+            - generic [ref=e18]: "34"
+            - generic [ref=e19]: Sec
+        - link "Claim It Here" [ref=e21] [cursor=pointer]:
+          - /url: https://selectorshub.com/get-free-access-of-advanced-xpath-and-css-selector-paid-course/
+          - generic [ref=e23] [cursor=pointer]: Claim It Here
+      - generic [ref=e26]:
+        - link [ref=e28] [cursor=pointer]:
+          - /url: https://selectorshub.com
+        - navigation "Menu" [ref=e30]:
+          - list [ref=e32]:
+            - listitem [ref=e33]:
+              - generic [ref=e34]:
+                - generic [ref=e36]: Products
+                - button "Open Products" [ref=e37]:
+                  - generic [ref=e38]:
+                    - img [ref=e39]
+                    - generic [ref=e41]: Open Products
+            - listitem [ref=e42]:
+              - generic [ref=e43]:
+                - generic [ref=e45]: Pro Plans
+                - button "Open Pro Plans" [ref=e46]:
+                  - generic [ref=e47]:
+                    - img [ref=e48]
+                    - generic [ref=e50]: Open Pro Plans
+            - listitem [ref=e51]:
+              - link "Courses" [ref=e53] [cursor=pointer]:
+                - /url: /courses-recordings/
+                - generic [ref=e54] [cursor=pointer]: Courses
+            - listitem [ref=e55]:
+              - link "Practice Page" [ref=e57] [cursor=pointer]:
+                - /url: /xpath-practice-page/
+                - generic [ref=e58] [cursor=pointer]: Practice Page
+            - listitem [ref=e59]:
+              - generic [ref=e60]:
+                - generic [ref=e62]: Resources
+                - button "Open Resources" [ref=e63]:
+                  - generic [ref=e64]:
+                    - img [ref=e65]
+                    - generic [ref=e67]: Open Resources
+            - listitem [ref=e68]:
+              - link "Help?" [ref=e70] [cursor=pointer]:
+                - /url: /contact-us/
+                - generic [ref=e71] [cursor=pointer]: Help?
+        - link [ref=e74] [cursor=pointer]:
+          - /url: "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjIyNjU3IiwidG9nZ2xlIjpmYWxzZX0%3D"
+          - img [ref=e75] [cursor=pointer]
+  - generic [ref=e77]:
+    - generic [ref=e80]:
+      - iframe [ref=e82]: Loading…:
+        - generic [ref=f1e4]:
+          - link "Tool The AI Platform for Software Quality. Start free" [ref=f1e5] [cursor=pointer]:
+            - /url: http://katalon.com?utm_source=selectorshub&utm_medium=referral&utm_campaign=true-platform-launch
+            - generic [ref=f1e6] [cursor=pointer]: Tool
+            - generic [ref=f1e9] [cursor=pointer]:
+              - img [ref=f1e10] [cursor=pointer]
+              - text: The AI Platform for Software Quality.
+            - generic [ref=f1e12] [cursor=pointer]:
+              - paragraph [ref=f1e13] [cursor=pointer]: Start free
+              - img [ref=f1e15] [cursor=pointer]
+          - link "Free Course SDET Coding Mastery | Java for Technical Interviews Read More" [ref=f1e16] [cursor=pointer]:
+            - /url: https://shiftsync.tricentis.com/certification-courses-84/course-sdet-coding-mastery-java-for-technical-interviews-2711?utm_source=ssnetwork&utm_medium=multi&utm_term=SH&utm_content=SDETcourse
+            - generic [ref=f1e17] [cursor=pointer]: Free Course
+            - generic [ref=f1e20] [cursor=pointer]:
+              - img [ref=f1e21] [cursor=pointer]
+              - text: SDET Coding Mastery | Java for Technical Interviews
+            - generic [ref=f1e23] [cursor=pointer]:
+              - paragraph [ref=f1e24] [cursor=pointer]: Read More
+              - img [ref=f1e26] [cursor=pointer]
+          - 'link "#AiTestFest2026: Steal The Deal offer at ₹1111 only Register Now" [ref=f1e27] [cursor=pointer]':
+            - /url: https://aitestfest.com/registration/
+            - generic [ref=f1e30] [cursor=pointer]:
+              - img [ref=f1e31] [cursor=pointer]
+              - text: "#AiTestFest2026: Steal The Deal offer at ₹1111 only"
+            - generic [ref=f1e33] [cursor=pointer]:
+              - paragraph [ref=f1e34] [cursor=pointer]: Register Now
+              - img [ref=f1e36] [cursor=pointer]
+          - link "#1 Free Test Management Tool with A.I. is here Explore" [ref=f1e37] [cursor=pointer]:
+            - /url: https://bugasura.io/test-management?utm_source=selectorshub&utm_medium=ads&utm_campaign=test_management_launch
+            - generic [ref=f1e40] [cursor=pointer]:
+              - img [ref=f1e41] [cursor=pointer]
+              - text: "#1 Free Test Management Tool with A.I. is here"
+            - generic [ref=f1e43] [cursor=pointer]:
+              - paragraph [ref=f1e44] [cursor=pointer]: Explore
+              - img [ref=f1e46] [cursor=pointer]
+          - link "Tool Testing Tools for All Kinds of Testing Problems Explore Now" [ref=f1e47] [cursor=pointer]:
+            - /url: https://www.tricentis.com/software-testing-tool-trial-demo?utm_source=selectorshub&utm_medium=affiliate&pap_aid=selectorshub
+            - generic [ref=f1e48] [cursor=pointer]: Tool
+            - generic [ref=f1e51] [cursor=pointer]:
+              - img [ref=f1e52] [cursor=pointer]
+              - text: Testing Tools for All Kinds of Testing Problems
+            - generic [ref=f1e54] [cursor=pointer]:
+              - paragraph [ref=f1e55] [cursor=pointer]: Explore Now
+              - img [ref=f1e57] [cursor=pointer]
+          - 'link "AI Tool Generative AI: How to Build Actual Tests in Seconds with testRigor Learn more" [ref=f1e58] [cursor=pointer]':
+            - /url: https://testrigor.com/blog/revolutionizing-qa-how-to-create-tests-in-seconds-with-testrigors-generative-ai/?utm_source=testingdaily&utm_medium=ad&eid=LYFcml
+            - generic [ref=f1e59] [cursor=pointer]: AI Tool
+            - generic [ref=f1e62] [cursor=pointer]:
+              - img [ref=f1e63] [cursor=pointer]
+              - text: "Generative AI: How to Build Actual Tests in Seconds with testRigor"
+            - generic [ref=f1e65] [cursor=pointer]:
+              - paragraph [ref=f1e66] [cursor=pointer]: Learn more
+              - img [ref=f1e68] [cursor=pointer]
+      - generic [ref=e83]:
+        - heading "Free Productivity Booster Tools for Testers" [level=1] [ref=e84]:
+          - generic [ref=e85]: Free Productivity
+          - text: Booster Tools for Testers
+        - generic [ref=e86]:
+          - generic [ref=e87]:
+            - img [ref=e89]
+            - text: 1.7M+ Users
+          - generic [ref=e91]:
+            - img [ref=e93]
+            - text: "4.8"
+            - img "⭐" [ref=e95]
+            - text: Avg Rating
+          - generic [ref=e96]:
+            - img [ref=e98]
+            - text: 100% Privacy Safe
+        - generic [ref=e100]:
+          - 'link "🎁 Anniversary Sale is live: 80% OFF" [ref=e101] [cursor=pointer]':
+            - /url: https://selectorshub.com/offers/
+            - img "🎁" [ref=e103] [cursor=pointer]
+            - generic [ref=e104] [cursor=pointer]: "Anniversary Sale is live:"
+            - generic [ref=e105] [cursor=pointer]: 80% OFF
+          - generic [ref=e106]: Trusted by 1.7M+ Testers Worldwide
+        - generic [ref=e109]: Our Tools
+        - generic [ref=e110]:
+          - link "SelectorsHub SelectorsHub XPath & Playwright Locators Plugin Browser Plugin" [ref=e111] [cursor=pointer]:
+            - /url: /selectorshub/
+            - img "SelectorsHub" [ref=e114] [cursor=pointer]
+            - generic [ref=e115] [cursor=pointer]:
+              - generic [ref=e116] [cursor=pointer]: SelectorsHub
+              - generic [ref=e117] [cursor=pointer]: XPath & Playwright Locators Plugin
+            - generic: Browser Plugin
+          - link "TestCase Studio TestCase Studio Record test steps & screenshot Browser Plugin" [ref=e118] [cursor=pointer]:
+            - /url: /testcase-studio/
+            - img "TestCase Studio" [ref=e121] [cursor=pointer]
+            - generic [ref=e122] [cursor=pointer]:
+              - generic [ref=e123] [cursor=pointer]: TestCase Studio
+              - generic [ref=e124] [cursor=pointer]: Record test steps & screenshot
+            - generic: Browser Plugin
+          - link "Exploratory Tester Exploratory Tester Get test report before you start Browser Plugin" [ref=e125] [cursor=pointer]:
+            - /url: /exploratory-tester/
+            - img "Exploratory Tester" [ref=e128] [cursor=pointer]
+            - generic [ref=e129] [cursor=pointer]:
+              - generic [ref=e130] [cursor=pointer]: Exploratory Tester
+              - generic [ref=e131] [cursor=pointer]: Get test report before you start
+            - generic: Browser Plugin
+          - link "Check My Links Check My Links Find Broken Links in 1 click Browser Plugin" [ref=e132] [cursor=pointer]:
+            - /url: /checkmylinks/
+            - img "Check My Links" [ref=e135] [cursor=pointer]
+            - generic [ref=e136] [cursor=pointer]:
+              - generic [ref=e137] [cursor=pointer]: Check My Links
+              - generic [ref=e138] [cursor=pointer]: Find Broken Links in 1 click
+            - generic: Browser Plugin
+          - link "SelectorsHub Pro SelectorsHub Pro Paid XPath & Playwright Plugin Browser Plugin" [ref=e139] [cursor=pointer]:
+            - /url: /selectorshub-pro/
+            - img "SelectorsHub Pro" [ref=e142] [cursor=pointer]
+            - generic [ref=e143] [cursor=pointer]:
+              - generic [ref=e144] [cursor=pointer]:
+                - text: SelectorsHub
+                - generic [ref=e145] [cursor=pointer]: Pro
+              - generic [ref=e146] [cursor=pointer]: Paid XPath & Playwright Plugin
+            - generic: Browser Plugin
+          - link "TestCase Studio Pro TestCase Studio Pro Paid Recorder with advanced features Browser Plugin" [ref=e147] [cursor=pointer]:
+            - /url: /testcase-studio-pro/
+            - img "TestCase Studio Pro" [ref=e150] [cursor=pointer]
+            - generic [ref=e151] [cursor=pointer]:
+              - generic [ref=e152] [cursor=pointer]:
+                - text: TestCase Studio
+                - generic [ref=e153] [cursor=pointer]: Pro
+              - generic [ref=e154] [cursor=pointer]: Paid Recorder with advanced features
+            - generic: Browser Plugin
+          - link "Screenshot with URL Screenshot with URL Take screenshots with URL bar Browser Plugin" [ref=e155] [cursor=pointer]:
+            - /url: /screenshot-with-url/
+            - img "Screenshot with URL" [ref=e158] [cursor=pointer]
+            - generic [ref=e159] [cursor=pointer]:
+              - generic [ref=e160] [cursor=pointer]: Screenshot with URL
+              - generic [ref=e161] [cursor=pointer]: Take screenshots with URL bar
+            - generic: Browser Plugin
+          - link "Page Load Timer Page Load Timer Get Page Load Time automatically Browser Plugin" [ref=e162] [cursor=pointer]:
+            - /url: /page-load-timer/
+            - img "Page Load Timer" [ref=e165] [cursor=pointer]
+            - generic [ref=e166] [cursor=pointer]:
+              - generic [ref=e167] [cursor=pointer]: Page Load Timer
+              - generic [ref=e168] [cursor=pointer]: Get Page Load Time automatically
+            - generic: Browser Plugin
+          - link "Testing Daily Testing Daily App to get testing trends Browser Plugin, Mobile App" [ref=e169] [cursor=pointer]:
+            - /url: /testing-daily/
+            - img "Testing Daily" [ref=e172] [cursor=pointer]
+            - generic [ref=e173] [cursor=pointer]:
+              - generic [ref=e174] [cursor=pointer]: Testing Daily
+              - generic [ref=e175] [cursor=pointer]: App to get testing trends
+            - generic: Browser Plugin, Mobile App
+          - link "Auto Data Filler Auto Data Filler Quick Data Filler Browser Plugin" [ref=e176] [cursor=pointer]:
+            - /url: /auto-data-filler/
+            - img "Auto Data Filler" [ref=e179] [cursor=pointer]
+            - generic [ref=e180] [cursor=pointer]:
+              - generic [ref=e181] [cursor=pointer]: Auto Data Filler
+              - generic [ref=e182] [cursor=pointer]: Quick Data Filler
+            - generic: Browser Plugin
+          - link "Tool Analyzer Automation Tool Analyzer Compare Automation Tool Web App" [ref=e183] [cursor=pointer]:
+            - /url: /automation-tool-analyzer/
+            - img "Tool Analyzer" [ref=e186] [cursor=pointer]
+            - generic [ref=e187] [cursor=pointer]:
+              - generic [ref=e188] [cursor=pointer]: Automation Tool Analyzer
+              - generic [ref=e189] [cursor=pointer]: Compare Automation Tool
+            - generic: Web App
+          - link "AutoTestData AutoTestData Generate Fake Test Data Web App" [ref=e190] [cursor=pointer]:
+            - /url: /autotestdata/
+            - img "AutoTestData" [ref=e193] [cursor=pointer]
+            - generic [ref=e194] [cursor=pointer]:
+              - generic [ref=e195] [cursor=pointer]: AutoTestData
+              - generic [ref=e196] [cursor=pointer]: Generate Fake Test Data
+            - generic: Web App
+          - link "XPath Tester for XML XPath Tester for XML Auto generate xpath for xml Web App" [ref=e197] [cursor=pointer]:
+            - /url: https://selectorshub.com/xpath-tester-for-xml/
+            - img "XPath Tester for XML" [ref=e200] [cursor=pointer]
+            - generic [ref=e201] [cursor=pointer]:
+              - generic [ref=e202] [cursor=pointer]: XPath Tester for XML
+              - generic [ref=e203] [cursor=pointer]: Auto generate xpath for xml
+            - generic: Web App
+          - link "Clear Cache Clear Cache Clear cache & browsing data in 1 click Browser Plugin" [ref=e204] [cursor=pointer]:
+            - /url: https://chromewebstore.google.com/detail/clear-cache/epompmcepniobjioaagepjacapcoofof
+            - img "Clear Cache" [ref=e207] [cursor=pointer]
+            - generic [ref=e208] [cursor=pointer]:
+              - generic [ref=e209] [cursor=pointer]: Clear Cache
+              - generic [ref=e210] [cursor=pointer]: Clear cache & browsing data in 1 click
+            - generic: Browser Plugin
+          - link "CSSViewer CSSViewer A simple CSS property viewer Browser Plugin" [ref=e211] [cursor=pointer]:
+            - /url: https://chromewebstore.google.com/detail/cssviewer/plnialnlnbaodbmoedcppffmgfmmghbj
+            - img "CSSViewer" [ref=e214] [cursor=pointer]
+            - generic [ref=e215] [cursor=pointer]:
+              - generic [ref=e216] [cursor=pointer]: CSSViewer
+              - generic [ref=e217] [cursor=pointer]: A simple CSS property viewer
+            - generic: Browser Plugin
+          - link "Request Maker Request Maker Log, send and edit HTTP requests Browser Plugin" [ref=e218] [cursor=pointer]:
+            - /url: https://chromewebstore.google.com/detail/request-maker/omkgomnijgmfgamakgafdfjakgkkgnff
+            - img "Request Maker" [ref=e221] [cursor=pointer]
+            - generic [ref=e222] [cursor=pointer]:
+              - generic [ref=e223] [cursor=pointer]: Request Maker
+              - generic [ref=e224] [cursor=pointer]: Log, send and edit HTTP requests
+            - generic: Browser Plugin
+          - link "Certification Certification Take Quiz & Get Your Certificate Quiz" [ref=e225] [cursor=pointer]:
+            - /url: /certification/
+            - img "Certification" [ref=e228] [cursor=pointer]
+            - generic [ref=e229] [cursor=pointer]:
+              - generic [ref=e230] [cursor=pointer]: Certification
+              - generic [ref=e231] [cursor=pointer]: Take Quiz & Get Your Certificate
+            - generic: Quiz
+          - link "SelectorsHub Ads SelectorsHub Ads Promote with us" [ref=e232] [cursor=pointer]:
+            - /url: https://selectorshub.com/selectorshub-ads/
+            - img "SelectorsHub Ads" [ref=e235] [cursor=pointer]
+            - generic [ref=e236] [cursor=pointer]:
+              - generic [ref=e237] [cursor=pointer]: SelectorsHub Ads
+              - generic [ref=e238] [cursor=pointer]: Promote with us
+    - generic [ref=e239]:
+      - generic [ref=e240]:
+        - heading "Tools Comparison Guide" [level=1] [ref=e242]:
+          - text: Tools
+          - emphasis [ref=e243]: Comparison
+          - text: Guide
+        - generic [ref=e244]:
+          - button "All Tools" [ref=e245] [cursor=pointer]
+          - button "Automation" [ref=e246] [cursor=pointer]
+          - button "Manual Testing" [ref=e247] [cursor=pointer]
+          - button "Performance" [ref=e248] [cursor=pointer]
+          - button "Test Data" [ref=e249] [cursor=pointer]
+          - button "Productivity" [ref=e250] [cursor=pointer]
+        - generic [ref=e251]:
+          - text: Scroll to see all tools
+          - generic [ref=e252]:
+            - generic [ref=e253]: ›
+            - generic [ref=e254]: ›
+            - generic [ref=e255]: ›
+        - generic [ref=e256]:
+          - button "Scroll left": ‹
+          - button "Scroll right" [ref=e257] [cursor=pointer]: ›
+          - table [ref=e259]:
+            - rowgroup [ref=e260]:
+              - row "Feature SelectorsHub SelectorsHub Extension TestCase Studio TestCase Studio Extension Check My Links Check My Links Extension Exploratory Tester Exploratory Tester Extension Screenshot with URL Screenshot with URL Extension Testing Daily Testing Daily Extension Page Load Timer Page Load Timer Extension Auto Data Filler Auto Data Filler Extension AutoTestData AutoTestData Web App Tool Analyzer Tool Analyzer Web App" [ref=e261]:
+                - cell "Feature" [ref=e262]:
+                  - generic [ref=e264]: Feature
+                - cell "SelectorsHub SelectorsHub Extension" [ref=e265]:
+                  - generic [ref=e266]:
+                    - img "SelectorsHub" [ref=e267]
+                    - generic [ref=e268]: SelectorsHub
+                    - generic [ref=e269]: Extension
+                - cell "TestCase Studio TestCase Studio Extension" [ref=e270]:
+                  - generic [ref=e271]:
+                    - img "TestCase Studio" [ref=e272]
+                    - generic [ref=e273]: TestCase Studio
+                    - generic [ref=e274]: Extension
+                - cell "Check My Links Check My Links Extension" [ref=e275]:
+                  - generic [ref=e276]:
+                    - img "Check My Links" [ref=e277]
+                    - generic [ref=e278]: Check My Links
+                    - generic [ref=e279]: Extension
+                - cell "Exploratory Tester Exploratory Tester Extension" [ref=e280]:
+                  - generic [ref=e281]:
+                    - img "Exploratory Tester" [ref=e282]
+                    - generic [ref=e283]: Exploratory Tester
+                    - generic [ref=e284]: Extension
+                - cell "Screenshot with URL Screenshot with URL Extension" [ref=e285]:
+                  - generic [ref=e286]:
+                    - img "Screenshot with URL" [ref=e287]
+                    - generic [ref=e288]: Screenshot with URL
+                    - generic [ref=e289]: Extension
+                - cell "Testing Daily Testing Daily Extension" [ref=e290]:
+                  - generic [ref=e291]:
+                    - img "Testing Daily" [ref=e292]
+                    - generic [ref=e293]: Testing Daily
+                    - generic [ref=e294]: Extension
+                - cell "Page Load Timer Page Load Timer Extension" [ref=e295]:
+                  - generic [ref=e296]:
+                    - img "Page Load Timer" [ref=e297]
+                    - generic [ref=e298]: Page Load Timer
+                    - generic [ref=e299]: Extension
+                - cell "Auto Data Filler Auto Data Filler Extension" [ref=e300]:
+                  - generic [ref=e301]:
+                    - img "Auto Data Filler" [ref=e302]
+                    - generic [ref=e303]: Auto Data Filler
+                    - generic [ref=e304]: Extension
+                - cell "AutoTestData AutoTestData Web App" [ref=e305]:
+                  - generic [ref=e306]:
+                    - img "AutoTestData" [ref=e307]
+                    - generic [ref=e308]: AutoTestData
+                    - generic [ref=e309]: Web App
+                - cell "Tool Analyzer Tool Analyzer Web App" [ref=e310]:
+                  - generic [ref=e311]:
+                    - img "Tool Analyzer" [ref=e312]
+                    - generic [ref=e313]: Tool Analyzer
+                    - generic [ref=e314]: Web App
+            - rowgroup [ref=e315]:
+              - row "🎯 What It Does Core purpose Auto-generates & verifies XPath, CSS, Playwright selectors with smart editor Records user actions as plain English test steps with auto-screenshots Scans pages for broken, active & redirect links in one click Runs 21 automated tests instantly — accessibility, SEO, forms, links & more Captures screenshots with URL bar visible — proving the page source Curates the latest testing news, trends & articles from top sources daily Shows real-time page load time in toolbar with performance drop alerts Fills test data instantly via right-click context menu on any input field Generates fake/synthetic test data — names, emails, phones, addresses & more Recommends the right automation tool based on your project needs via AI questionnaire" [ref=e316]:
+                - cell "🎯 What It Does Core purpose" [ref=e317]:
+                  - generic [ref=e318]:
+                    - img "🎯" [ref=e320]
+                    - generic [ref=e321]:
+                      - generic [ref=e322]: What It Does
+                      - generic [ref=e323]: Core purpose
+                - cell "Auto-generates & verifies XPath, CSS, Playwright selectors with smart editor" [ref=e324]:
+                  - text: Auto-generates & verifies
+                  - generic [ref=e325]: XPath, CSS, Playwright
+                  - text: selectors with smart editor
+                - cell "Records user actions as plain English test steps with auto-screenshots" [ref=e326]:
+                  - text: Records user actions as
+                  - generic [ref=e327]: plain English test steps
+                  - text: with auto-screenshots
+                - cell "Scans pages for broken, active & redirect links in one click" [ref=e328]:
+                  - text: Scans pages for
+                  - generic [ref=e329]: broken, active & redirect links
+                  - text: in one click
+                - cell "Runs 21 automated tests instantly — accessibility, SEO, forms, links & more" [ref=e330]:
+                  - text: Runs
+                  - generic [ref=e331]: 21 automated tests
+                  - text: instantly — accessibility, SEO, forms, links & more
+                - cell "Captures screenshots with URL bar visible — proving the page source" [ref=e332]:
+                  - text: Captures
+                  - generic [ref=e333]: screenshots with URL bar
+                  - text: visible — proving the page source
+                - cell "Curates the latest testing news, trends & articles from top sources daily" [ref=e334]:
+                  - text: Curates the
+                  - generic [ref=e335]: latest testing news
+                  - text: ", trends & articles from top sources daily"
+                - cell "Shows real-time page load time in toolbar with performance drop alerts" [ref=e336]:
+                  - text: Shows
+                  - generic [ref=e337]: real-time page load time
+                  - text: in toolbar with performance drop alerts
+                - cell "Fills test data instantly via right-click context menu on any input field" [ref=e338]:
+                  - text: Fills
+                  - generic [ref=e339]: test data instantly
+                  - text: via right-click context menu on any input field
+                - cell "Generates fake/synthetic test data — names, emails, phones, addresses & more" [ref=e340]:
+                  - text: Generates
+                  - generic [ref=e341]: fake/synthetic test data
+                  - text: — names, emails, phones, addresses & more
+                - cell "Recommends the right automation tool based on your project needs via AI questionnaire" [ref=e342]:
+                  - text: Recommends the
+                  - generic [ref=e343]: right automation tool
+                  - text: based on your project needs via AI questionnaire
+              - row "👤 Best For Target audience Automation Engineers, SDETs, Developers Manual Testers, QA Analysts, Exploratory Testers Developers, SEO Pros, Content Editors QA Engineers, Manual & Exploratory Testers Bug Reporters, QA Analysts, Manual Testers All Testers, QA Managers, Tech Leads Performance Testers, Frontend Developers Exploratory Testers, Manual QA Data-driven Testers, Automation Engineers QA Leads, Teams evaluating & comparing tools" [ref=e344]:
+                - cell "👤 Best For Target audience" [ref=e345]:
+                  - generic [ref=e346]:
+                    - img "👤" [ref=e348]
+                    - generic [ref=e349]:
+                      - generic [ref=e350]: Best For
+                      - generic [ref=e351]: Target audience
+                - cell "Automation Engineers, SDETs, Developers" [ref=e352]
+                - cell "Manual Testers, QA Analysts, Exploratory Testers" [ref=e353]
+                - cell "Developers, SEO Pros, Content Editors" [ref=e354]
+                - cell "QA Engineers, Manual & Exploratory Testers" [ref=e355]
+                - cell "Bug Reporters, QA Analysts, Manual Testers" [ref=e356]
+                - cell "All Testers, QA Managers, Tech Leads" [ref=e357]
+                - cell "Performance Testers, Frontend Developers" [ref=e358]
+                - cell "Exploratory Testers, Manual QA" [ref=e359]
+                - cell "Data-driven Testers, Automation Engineers" [ref=e360]
+                - cell "QA Leads, Teams evaluating & comparing tools" [ref=e361]
+              - row "💡 Key Superpower What makes it unique Smart auto-suggest for attributes, functions & occurrences — build selectors in 5 seconds Converts every click into readable English sentences automatically Detects all link types across entire page in seconds Full test report with screenshots — zero configuration needed URL proof in every screenshot — no manual cropping One-stop news feed replacing multiple sources Always-visible badge + instant alerts on performance drops One-click fill with valid, invalid & edge-case data Bulk generation in 3 simple steps — no install needed AI-powered recommendation engine for tool selection" [ref=e362]:
+                - cell "💡 Key Superpower What makes it unique" [ref=e363]:
+                  - generic [ref=e364]:
+                    - img "💡" [ref=e366]
+                    - generic [ref=e367]:
+                      - generic [ref=e368]: Key Superpower
+                      - generic [ref=e369]: What makes it unique
+                - cell "Smart auto-suggest for attributes, functions & occurrences — build selectors in 5 seconds" [ref=e370]:
+                  - text: Smart auto-suggest for attributes, functions & occurrences — build selectors in
+                  - generic [ref=e371]: 5 seconds
+                - cell "Converts every click into readable English sentences automatically" [ref=e372]:
+                  - text: Converts every click into readable English sentences
+                  - generic [ref=e373]: automatically
+                - cell "Detects all link types across entire page in seconds" [ref=e374]:
+                  - text: Detects all link types across entire page in
+                  - generic [ref=e375]: seconds
+                - cell "Full test report with screenshots — zero configuration needed" [ref=e376]:
+                  - text: Full test report with screenshots —
+                  - generic [ref=e377]: zero configuration
+                  - text: needed
+                - cell "URL proof in every screenshot — no manual cropping" [ref=e378]:
+                  - text: URL proof in every screenshot —
+                  - generic [ref=e379]: no manual cropping
+                - cell "One-stop news feed replacing multiple sources" [ref=e380]:
+                  - text: One-stop news feed replacing
+                  - generic [ref=e381]: multiple sources
+                - cell "Always-visible badge + instant alerts on performance drops" [ref=e382]:
+                  - text: Always-visible badge +
+                  - generic [ref=e383]: instant alerts
+                  - text: on performance drops
+                - cell "One-click fill with valid, invalid & edge-case data" [ref=e384]:
+                  - text: One-click fill with valid, invalid &
+                  - generic [ref=e385]: edge-case data
+                - cell "Bulk generation in 3 simple steps — no install needed" [ref=e386]:
+                  - text: Bulk generation in
+                  - generic [ref=e387]: 3 simple steps
+                  - text: — no install needed
+                - cell "AI-powered recommendation engine for tool selection" [ref=e388]:
+                  - text: AI-powered
+                  - generic [ref=e389]: recommendation engine
+                  - text: for tool selection
+              - row "🏗️ Complexity What it handles Shadow DOM, iFrames, SVG, dynamic elements, dropdowns, nested structures Multi-step flows, form submissions, navigation paths, complex user journeys Redirects, anchors, external, internal & warning links with categorization Accessibility, SEO meta, forms, images, console errors, links — per-tab isolation Full viewport + URL bar capture across any screen size & resolution Aggregates from multiple testing communities & news sources globally Navigation Timing API breakdown with detailed load metrics Any input type — text, email, phone, date, dropdown, textarea Customizable data types, volume & format for any test scenario Diverse project requirements, team sizes, tech stacks & budgets" [ref=e390]:
+                - cell "🏗️ Complexity What it handles" [ref=e391]:
+                  - generic [ref=e392]:
+                    - img "🏗️" [ref=e394]
+                    - generic [ref=e395]:
+                      - generic [ref=e396]: Complexity
+                      - generic [ref=e397]: What it handles
+                - cell "Shadow DOM, iFrames, SVG, dynamic elements, dropdowns, nested structures" [ref=e398]
+                - cell "Multi-step flows, form submissions, navigation paths, complex user journeys" [ref=e399]
+                - cell "Redirects, anchors, external, internal & warning links with categorization" [ref=e400]
+                - cell "Accessibility, SEO meta, forms, images, console errors, links — per-tab isolation" [ref=e401]
+                - cell "Full viewport + URL bar capture across any screen size & resolution" [ref=e402]
+                - cell "Aggregates from multiple testing communities & news sources globally" [ref=e403]
+                - cell "Navigation Timing API breakdown with detailed load metrics" [ref=e404]
+                - cell "Any input type — text, email, phone, date, dropdown, textarea" [ref=e405]
+                - cell "Customizable data types, volume & format for any test scenario" [ref=e406]
+                - cell "Diverse project requirements, team sizes, tech stacks & budgets" [ref=e407]
+              - row "🔧 How to Access Tool type & setup DevTools Panel — install → open DevTools → SelectorsHub tab Toolbar Popup — install → click icon → start recording Popup — install → click icon on any page to scan Popup — install → click icon → 21 tests run instantly Toolbar — install → click icon to capture with URL New Tab Page — install → opens as your new tab Toolbar Badge — install → shows time automatically Context Menu — install → right-click any input field Web App — visit autotestdata.com (no install) Web App — visit the tool analyzer page (no install)" [ref=e408]:
+                - cell "🔧 How to Access Tool type & setup" [ref=e409]:
+                  - generic [ref=e410]:
+                    - img "🔧" [ref=e412]
+                    - generic [ref=e413]:
+                      - generic [ref=e414]: How to Access
+                      - generic [ref=e415]: Tool type & setup
+                - cell "DevTools Panel — install → open DevTools → SelectorsHub tab" [ref=e416]
+                - cell "Toolbar Popup — install → click icon → start recording" [ref=e417]
+                - cell "Popup — install → click icon on any page to scan" [ref=e418]
+                - cell "Popup — install → click icon → 21 tests run instantly" [ref=e419]
+                - cell "Toolbar — install → click icon to capture with URL" [ref=e420]
+                - cell "New Tab Page — install → opens as your new tab" [ref=e421]
+                - cell "Toolbar Badge — install → shows time automatically" [ref=e422]
+                - cell "Context Menu — install → right-click any input field" [ref=e423]
+                - cell "Web App — visit autotestdata.com (no install)" [ref=e424]
+                - cell "Web App — visit the tool analyzer page (no install)" [ref=e425]
+              - row "📤 Output / Export What you get Copy selectors, locator page, driver commands, context menu copy Download test steps as document, copy to clipboard, includes screenshots Color-coded link report with counts per category in popup HTML, Word, or PDF report; download all screenshots as ZIP PNG screenshot with URL bar visible, ready for bug reports Read articles directly in the new tab interface Detailed timing breakdown on clicking the badge Data filled directly into form fields on the page Copy or download generated datasets Tool recommendation report with comparison matrix" [ref=e426]:
+                - cell "📤 Output / Export What you get" [ref=e427]:
+                  - generic [ref=e428]:
+                    - img "📤" [ref=e430]
+                    - generic [ref=e431]:
+                      - generic [ref=e432]: Output / Export
+                      - generic [ref=e433]: What you get
+                - cell "Copy selectors, locator page, driver commands, context menu copy" [ref=e434]
+                - cell "Download test steps as document, copy to clipboard, includes screenshots" [ref=e435]
+                - cell "Color-coded link report with counts per category in popup" [ref=e436]
+                - cell "HTML, Word, or PDF report; download all screenshots as ZIP" [ref=e437]
+                - cell "PNG screenshot with URL bar visible, ready for bug reports" [ref=e438]
+                - cell "Read articles directly in the new tab interface" [ref=e439]
+                - cell "Detailed timing breakdown on clicking the badge" [ref=e440]
+                - cell "Data filled directly into form fields on the page" [ref=e441]
+                - cell "Copy or download generated datasets" [ref=e442]
+                - cell "Tool recommendation report with comparison matrix" [ref=e443]
+              - row "🌐 Browsers Platform support Chrome, Firefox, Edge, Opera Chrome, Firefox, Edge, Opera Chrome, Edge Chrome, Edge Chrome, Edge Chrome, Firefox, Edge Chrome, Edge Chrome, Edge Any browser (web app) Any browser (web app)" [ref=e444]:
+                - cell "🌐 Browsers Platform support" [ref=e445]:
+                  - generic [ref=e446]:
+                    - img "🌐" [ref=e448]
+                    - generic [ref=e449]:
+                      - generic [ref=e450]: Browsers
+                      - generic [ref=e451]: Platform support
+                - cell "Chrome, Firefox, Edge, Opera" [ref=e452]
+                - cell "Chrome, Firefox, Edge, Opera" [ref=e453]
+                - cell "Chrome, Edge" [ref=e454]
+                - cell "Chrome, Edge" [ref=e455]
+                - cell "Chrome, Edge" [ref=e456]
+                - cell "Chrome, Firefox, Edge" [ref=e457]
+                - cell "Chrome, Edge" [ref=e458]
+                - cell "Chrome, Edge" [ref=e459]
+                - cell "Any browser (web app)" [ref=e460]
+                - cell "Any browser (web app)" [ref=e461]
+              - row "🔒 Privacy Data & security 100% local — no data sent to cloud, enterprise safe 100% offline — runs locally, no cloud storage Runs locally in browser — no data collection Runs locally, per-tab isolation — no data mixing between tabs Runs locally — screenshot stays on your device Fetches public news feeds only Uses browser Navigation Timing API only Runs locally — no data collection Runs in browser — no data stored on server Runs in browser — no personal data collected" [ref=e462]:
+                - cell "🔒 Privacy Data & security" [ref=e463]:
+                  - generic [ref=e464]:
+                    - img "🔒" [ref=e466]
+                    - generic [ref=e467]:
+                      - generic [ref=e468]: Privacy
+                      - generic [ref=e469]: Data & security
+                - cell "100% local — no data sent to cloud, enterprise safe" [ref=e470]
+                - cell "100% offline — runs locally, no cloud storage" [ref=e471]
+                - cell "Runs locally in browser — no data collection" [ref=e472]
+                - cell "Runs locally, per-tab isolation — no data mixing between tabs" [ref=e473]
+                - cell "Runs locally — screenshot stays on your device" [ref=e474]
+                - cell "Fetches public news feeds only" [ref=e475]
+                - cell "Uses browser Navigation Timing API only" [ref=e476]
+                - cell "Runs locally — no data collection" [ref=e477]
+                - cell "Runs in browser — no data stored on server" [ref=e478]
+                - cell "Runs in browser — no personal data collected" [ref=e479]
+              - 'row "💰 Pricing Cost & plans FREE + PRO Pro: Healing, Smart Inspector, Ads-free FREE + PRO Pro: Advanced Features, Ads-free FREE + KEY Key: Advanced features FREE FREE FREE FREE + KEY Key: Ads-free FREE FREE FREE" [ref=e480]':
+                - cell "💰 Pricing Cost & plans" [ref=e481]:
+                  - generic [ref=e482]:
+                    - img "💰" [ref=e484]
+                    - generic [ref=e485]:
+                      - generic [ref=e486]: Pricing
+                      - generic [ref=e487]: Cost & plans
+                - 'cell "FREE + PRO Pro: Healing, Smart Inspector, Ads-free" [ref=e488]':
+                  - generic [ref=e489]: FREE
+                  - generic [ref=e490]: + PRO
+                  - generic [ref=e491]: "Pro: Healing, Smart Inspector, Ads-free"
+                - 'cell "FREE + PRO Pro: Advanced Features, Ads-free" [ref=e492]':
+                  - generic [ref=e493]: FREE
+                  - generic [ref=e494]: + PRO
+                  - generic [ref=e495]: "Pro: Advanced Features, Ads-free"
+                - 'cell "FREE + KEY Key: Advanced features" [ref=e496]':
+                  - generic [ref=e497]: FREE
+                  - generic [ref=e498]: + KEY
+                  - generic [ref=e499]: "Key: Advanced features"
+                - cell "FREE" [ref=e500]:
+                  - generic [ref=e501]: FREE
+                - cell "FREE" [ref=e502]:
+                  - generic [ref=e503]: FREE
+                - cell "FREE" [ref=e504]:
+                  - generic [ref=e505]: FREE
+                - 'cell "FREE + KEY Key: Ads-free" [ref=e506]':
+                  - generic [ref=e507]: FREE
+                  - generic [ref=e508]: + KEY
+                  - generic [ref=e509]: "Key: Ads-free"
+                - cell "FREE" [ref=e510]:
+                  - generic [ref=e511]: FREE
+                - cell "FREE" [ref=e512]:
+                  - generic [ref=e513]: FREE
+                - cell "FREE" [ref=e514]:
+                  - generic [ref=e515]: FREE
+              - row "⭐ Rating Chrome Web Store ⭐ 4.8 Highest rated XPath tool ⭐ 5.0 ⭐ 4.8+ ⭐ 5.0 ⭐ 5.0 ⭐ 4.9 ⭐ 4.8 — N/A (Web App) N/A (Web App)" [ref=e516]:
+                - cell "⭐ Rating Chrome Web Store" [ref=e517]:
+                  - generic [ref=e518]:
+                    - img "⭐" [ref=e520]
+                    - generic [ref=e521]:
+                      - generic [ref=e522]: Rating
+                      - generic [ref=e523]: Chrome Web Store
+                - cell "⭐ 4.8 Highest rated XPath tool" [ref=e524]:
+                  - generic [ref=e525]:
+                    - img "⭐" [ref=e526]
+                    - text: "4.8"
+                  - generic [ref=e527]: Highest rated XPath tool
+                - cell "⭐ 5.0" [ref=e528]:
+                  - generic [ref=e529]:
+                    - img "⭐" [ref=e530]
+                    - text: "5.0"
+                - cell "⭐ 4.8+" [ref=e531]:
+                  - generic [ref=e532]:
+                    - img "⭐" [ref=e533]
+                    - text: 4.8+
+                - cell "⭐ 5.0" [ref=e534]:
+                  - generic [ref=e535]:
+                    - img "⭐" [ref=e536]
+                    - text: "5.0"
+                - cell "⭐ 5.0" [ref=e537]:
+                  - generic [ref=e538]:
+                    - img "⭐" [ref=e539]
+                    - text: "5.0"
+                - cell "⭐ 4.9" [ref=e540]:
+                  - generic [ref=e541]:
+                    - img "⭐" [ref=e542]
+                    - text: "4.9"
+                - cell "⭐ 4.8" [ref=e543]:
+                  - generic [ref=e544]:
+                    - img "⭐" [ref=e545]
+                    - text: "4.8"
+                - cell "—" [ref=e546]
+                - cell "N/A (Web App)" [ref=e547]:
+                  - generic [ref=e548]: N/A (Web App)
+                - cell "N/A (Web App)" [ref=e549]:
+                  - generic [ref=e550]: N/A (Web App)
+        - generic [ref=e552]:
+          - 'heading "💡 Pro Tip: Maximum Coverage Stack" [level=3] [ref=e553]':
+            - img "💡" [ref=e554]
+            - text: "Pro Tip: Maximum Coverage Stack"
+          - paragraph [ref=e555]:
+            - text: Use
+            - strong [ref=e556]: SelectorsHub
+            - text: +
+            - strong [ref=e557]: TestCase Studio
+            - text: +
+            - strong [ref=e558]: Check My Links
+            - text: +
+            - strong [ref=e559]: Exploratory Tester
+            - text: +
+            - strong [ref=e560]: Screenshot with URL
+            - text: together for the most comprehensive testing workflow — covering automation, documentation, link validation, exploratory testing & bug reporting in one go.
+      - generic [ref=e561]:
+        - generic:
+          - generic:
+            - generic:
+              - iframe
+    - generic [ref=e562]:
+      - heading "Top companies are using our products" [level=2] [ref=e566]
+      - region "Carousel" [ref=e569]:
+        - generic [ref=e570]:
+          - group [ref=e571]:
+            - img [ref=e574]
+          - group [ref=e575]:
+            - img [ref=e578]
+          - group [ref=e579]:
+            - img [ref=e582]
+          - group [ref=e583]:
+            - img [ref=e586]
+          - group [ref=e587]:
+            - img [ref=e590]
+          - group [ref=e591]:
+            - img [ref=e594]
+          - group [ref=e595]:
+            - img [ref=e598]
+          - group [ref=e599]:
+            - img [ref=e602]
+          - group [ref=e603]:
+            - img [ref=e606]
+          - group [ref=e607]:
+            - img [ref=e610]
+          - group "6 / 7" [ref=e611]:
+            - img "Google_logo" [ref=e614]
+          - group "7 / 7" [ref=e615]:
+            - img "Ea0n-MMXkAQ9eCH.png-large-e1651829450516" [ref=e618]
+          - group "1 / 7" [ref=e619]:
+            - img "Amazon_logo" [ref=e622]
+          - group "2 / 7" [ref=e623]:
+            - img "Logo-True-Colors-original" [ref=e626]
+          - group "3 / 7" [ref=e627]:
+            - img "logo-1" [ref=e630]
+          - group [ref=e631]:
+            - img [ref=e634]
+          - group [ref=e635]:
+            - img [ref=e638]
+    - heading "Everything you need for better productivity" [level=2] [ref=e642]
+    - generic [ref=e644]:
+      - generic [ref=e645]:
+        - img "FreeBrowser Plugin banner" [ref=e648]
+        - generic [ref=e649]:
+          - img [ref=e653]
+          - img [ref=e658]
+          - img [ref=e663]
+        - generic [ref=e665]:
+          - heading "Check My Links - Free Browser Plugin to Find Broken Links and Verify All links on webpage" [level=3] [ref=e667]
+          - generic [ref=e668]:
+            - paragraph [ref=e670]: Scan Web Page for Broken Links, Valid & Redirect links & Warnings.
+            - paragraph [ref=e672]: Generate report with all links with their status code
+            - paragraph [ref=e674]: Feature to customise highlight color & more setting options
+          - link "Try Now" [ref=e676] [cursor=pointer]:
+            - /url: https://selectorshub.com/checkmylinks/
+            - generic [ref=e678] [cursor=pointer]: Try Now
+      - generic [ref=e679]:
+        - generic [ref=e680]:
+          - 'heading "SelectorsHub: Next Gen XPath and CSS Selectors Plugin" [level=3] [ref=e682]'
+          - generic [ref=e683]:
+            - paragraph [ref=e685]: Automatically generate all types of XPath & Selectors in one click
+            - paragraph [ref=e687]: Supports iframe, shadow dom, svg and all kinds of elements
+            - paragraph [ref=e689]: Officially Recommended XPath Plugin by Selenium
+          - link "Try Now" [ref=e691] [cursor=pointer]:
+            - /url: https://selectorshub.com/selectorshub/
+            - generic [ref=e693] [cursor=pointer]: Try Now
+        - generic [ref=e694]:
+          - img [ref=e698]
+          - img [ref=e703]
+          - img [ref=e708]
+        - img "SelectorsHub Next Gen XPath banner" [ref=e712]
+      - generic [ref=e713]:
+        - img "Try our FREE recorder plugin banner" [ref=e716]
+        - generic [ref=e717]:
+          - img [ref=e721]
+          - img [ref=e726]
+          - img [ref=e731]
+        - generic [ref=e733]:
+          - heading "Try our FREE recorder plugin 'TestCase Studio' to auto generate test steps & Screenshot" [level=3] [ref=e735]
+          - generic [ref=e736]:
+            - paragraph [ref=e738]: Automatically Record the Manual Test Steps
+            - paragraph [ref=e740]: Generate Screenshots Automatically to file Bugs
+            - paragraph [ref=e742]: Generate Manual Test Cases from Automation Script
+          - link "Try Now" [ref=e744] [cursor=pointer]:
+            - /url: https://selectorshub.com/testcase-studio/
+            - generic [ref=e746] [cursor=pointer]: Try Now
+      - generic [ref=e747]:
+        - generic [ref=e748]:
+          - heading "Page Load Timer - Free Browser Plugin to measures page load time and get auto alert when page performance goes down." [level=3] [ref=e750]
+          - generic [ref=e751]:
+            - paragraph [ref=e753]: Measures page load time and displays it in the toolbar
+            - paragraph [ref=e755]: Generate report with all links along with their load time
+            - paragraph [ref=e757]: Feature to black list and white list website
+          - link "Try Now" [ref=e759] [cursor=pointer]:
+            - /url: https://selectorshub.com/page-load-timer/
+            - generic [ref=e761] [cursor=pointer]: Try Now
+        - generic [ref=e762]:
+          - img [ref=e766]
+          - img [ref=e771]
+          - img [ref=e776]
+      - generic [ref=e780]:
+        - img "Testing Daily App to get the latest testing blogs banner" [ref=e783]
+        - generic [ref=e784]:
+          - img [ref=e788]
+          - img [ref=e793]
+          - img [ref=e798]
+        - generic [ref=e800]:
+          - 'heading "Testing Daily: App to get the latest testing blogs, videos & trends update" [level=3] [ref=e802]'
+          - generic [ref=e803]:
+            - paragraph [ref=e805]: Testing Feed Aggregator
+            - paragraph [ref=e807]: Available as Mobile App, Browser Plugin & Web App
+            - paragraph [ref=e809]: Install now from Play Store or App Store
+          - link "Try Now" [ref=e811] [cursor=pointer]:
+            - /url: https://selectorshub.com/testing-daily/
+            - generic [ref=e813] [cursor=pointer]: Try Now
+    - generic [ref=e814]:
+      - heading "SelectorsHub Ambassadors" [level=2] [ref=e818]
+      - region "Image Carousel" [ref=e821]:
+        - generic [ref=e822]:
+          - group [ref=e823]:
+            - link [ref=e824] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e825] [cursor=pointer]:
+                - img [ref=e826] [cursor=pointer]
+                - generic [ref=e827] [cursor=pointer]: Nikhil
+          - group [ref=e828]:
+            - link [ref=e829] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e830] [cursor=pointer]:
+                - img [ref=e831] [cursor=pointer]
+                - generic [ref=e832] [cursor=pointer]: Marko
+          - group [ref=e833]:
+            - link [ref=e834] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e835] [cursor=pointer]:
+                - img [ref=e836] [cursor=pointer]
+                - generic [ref=e837] [cursor=pointer]: Seema
+          - group [ref=e838]:
+            - link [ref=e839] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e840] [cursor=pointer]:
+                - img [ref=e841] [cursor=pointer]
+                - generic [ref=e842] [cursor=pointer]: Shashwat
+          - group [ref=e843]:
+            - link [ref=e844] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e845] [cursor=pointer]:
+                - img [ref=e846] [cursor=pointer]
+                - generic [ref=e847] [cursor=pointer]: Mangesh
+          - group [ref=e848]:
+            - link [ref=e849] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e850] [cursor=pointer]:
+                - img [ref=e851] [cursor=pointer]
+                - generic [ref=e852] [cursor=pointer]: Priyanka
+          - group [ref=e853]:
+            - link [ref=e854] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e855] [cursor=pointer]
+          - group [ref=e856]:
+            - link [ref=e857] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e858] [cursor=pointer]:
+                - img [ref=e859] [cursor=pointer]
+                - generic [ref=e860] [cursor=pointer]: Shammi
+          - group [ref=e861]:
+            - link [ref=e862] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e863] [cursor=pointer]:
+                - img [ref=e864] [cursor=pointer]
+                - generic [ref=e865] [cursor=pointer]: Pavan
+          - group [ref=e866]:
+            - link [ref=e867] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e868] [cursor=pointer]:
+                - img [ref=e869] [cursor=pointer]
+                - generic [ref=e870] [cursor=pointer]: Rahul
+          - group [ref=e871]:
+            - link [ref=e872] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e873] [cursor=pointer]:
+                - img [ref=e874] [cursor=pointer]
+                - generic [ref=e875] [cursor=pointer]: joe
+          - group [ref=e876]:
+            - link [ref=e877] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e878] [cursor=pointer]:
+                - img [ref=e879] [cursor=pointer]
+                - generic [ref=e880] [cursor=pointer]: Carlos
+          - group [ref=e881]:
+            - link [ref=e882] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e883] [cursor=pointer]:
+                - img [ref=e884] [cursor=pointer]
+                - generic [ref=e885] [cursor=pointer]: Karthik
+          - group [ref=e886]:
+            - link [ref=e887] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e888] [cursor=pointer]:
+                - img [ref=e889] [cursor=pointer]
+                - generic [ref=e890] [cursor=pointer]: Rahul
+          - group [ref=e891]:
+            - link [ref=e892] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e893] [cursor=pointer]:
+                - img [ref=e894] [cursor=pointer]
+                - generic [ref=e895] [cursor=pointer]: Arun
+          - group [ref=e896]:
+            - link [ref=e897] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e898] [cursor=pointer]:
+                - img [ref=e899] [cursor=pointer]
+                - generic [ref=e900] [cursor=pointer]: Brijesh
+          - group [ref=e901]:
+            - link [ref=e902] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e903] [cursor=pointer]:
+                - img [ref=e904] [cursor=pointer]
+                - generic [ref=e905] [cursor=pointer]: Mukesh
+          - group [ref=e906]:
+            - link [ref=e907] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e908] [cursor=pointer]:
+                - img [ref=e909] [cursor=pointer]
+                - generic [ref=e910] [cursor=pointer]: Nishant
+          - group [ref=e911]:
+            - link [ref=e912] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e913] [cursor=pointer]:
+                - img [ref=e914] [cursor=pointer]
+                - generic [ref=e915] [cursor=pointer]: Ansha
+          - group [ref=e916]:
+            - link [ref=e917] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e918] [cursor=pointer]:
+                - img [ref=e919] [cursor=pointer]
+                - generic [ref=e920] [cursor=pointer]: Gandharv
+          - group "13 / 44" [ref=e921]:
+            - link "Mahathee" [ref=e922] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure "Mahathee" [ref=e923] [cursor=pointer]:
+                - img "Mahathee" [ref=e924] [cursor=pointer]
+                - generic [ref=e925] [cursor=pointer]: Mahathee
+          - group "14 / 44" [ref=e926]:
+            - link "Manish" [ref=e927] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure "Manish" [ref=e928] [cursor=pointer]:
+                - img "Manish" [ref=e929] [cursor=pointer]
+                - generic [ref=e930] [cursor=pointer]: Manish
+          - group "15 / 44" [ref=e931]:
+            - link "Nilesh" [ref=e932] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure "Nilesh" [ref=e933] [cursor=pointer]:
+                - img "Nilesh" [ref=e934] [cursor=pointer]
+                - generic [ref=e935] [cursor=pointer]: Nilesh
+          - group "16 / 44" [ref=e936]:
+            - link "Akshata" [ref=e937] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure "Akshata" [ref=e938] [cursor=pointer]:
+                - img "Akshata" [ref=e939] [cursor=pointer]
+                - generic [ref=e940] [cursor=pointer]: Akshata
+          - group "17 / 44" [ref=e941]:
+            - link "Paul" [ref=e942] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure "Paul" [ref=e943] [cursor=pointer]:
+                - img "Paul Grossman" [ref=e944] [cursor=pointer]
+                - generic [ref=e945] [cursor=pointer]: Paul
+          - group "18 / 44" [ref=e946]:
+            - link "Prachi" [ref=e947] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure "Prachi" [ref=e948] [cursor=pointer]:
+                - img "Prachi" [ref=e949] [cursor=pointer]
+                - generic [ref=e950] [cursor=pointer]: Prachi
+          - group "19 / 44" [ref=e951]:
+            - link "Rahul Yadav" [ref=e952] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure "Rahul Yadav" [ref=e953] [cursor=pointer]:
+                - img "Rahul Yadav" [ref=e954] [cursor=pointer]
+                - generic [ref=e955] [cursor=pointer]: Rahul Yadav
+          - group "20 / 44" [ref=e956]:
+            - link "Rakesh" [ref=e957] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure "Rakesh" [ref=e958] [cursor=pointer]:
+                - img "Rakesh" [ref=e959] [cursor=pointer]
+                - generic [ref=e960] [cursor=pointer]: Rakesh
+          - group [ref=e961]:
+            - link [ref=e962] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e963] [cursor=pointer]:
+                - img [ref=e964] [cursor=pointer]
+                - generic [ref=e965] [cursor=pointer]: Rex
+          - group [ref=e966]:
+            - link [ref=e967] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e968] [cursor=pointer]:
+                - img [ref=e969] [cursor=pointer]
+                - generic [ref=e970] [cursor=pointer]: Rojal
+          - group [ref=e971]:
+            - link [ref=e972] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e973] [cursor=pointer]:
+                - img [ref=e974] [cursor=pointer]
+                - generic [ref=e975] [cursor=pointer]: Sachin
+          - group [ref=e976]:
+            - link [ref=e977] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e978] [cursor=pointer]:
+                - img [ref=e979] [cursor=pointer]
+                - generic [ref=e980] [cursor=pointer]: Shailesh
+          - group [ref=e981]:
+            - link [ref=e982] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e983] [cursor=pointer]:
+                - img [ref=e984] [cursor=pointer]
+                - generic [ref=e985] [cursor=pointer]: Sidharth
+          - group [ref=e986]:
+            - link [ref=e987] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e988] [cursor=pointer]:
+                - img [ref=e989] [cursor=pointer]
+                - generic [ref=e990] [cursor=pointer]: Sripriya
+          - group [ref=e991]:
+            - link [ref=e992] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e993] [cursor=pointer]:
+                - img [ref=e994] [cursor=pointer]
+                - generic [ref=e995] [cursor=pointer]: Sunil Patro
+          - group [ref=e996]:
+            - link [ref=e997] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e998] [cursor=pointer]:
+                - img [ref=e999] [cursor=pointer]
+                - generic [ref=e1000] [cursor=pointer]: Zeeshan
+          - group [ref=e1001]:
+            - link [ref=e1002] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1003] [cursor=pointer]:
+                - img [ref=e1004] [cursor=pointer]
+                - generic [ref=e1005] [cursor=pointer]: Kalpesh
+          - group [ref=e1006]:
+            - link [ref=e1007] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1008] [cursor=pointer]:
+                - img [ref=e1009] [cursor=pointer]
+                - generic [ref=e1010] [cursor=pointer]: Naresh
+          - group [ref=e1011]:
+            - link [ref=e1012] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1013] [cursor=pointer]:
+                - img [ref=e1014] [cursor=pointer]
+                - generic [ref=e1015] [cursor=pointer]: Sandeep
+          - group [ref=e1016]:
+            - link [ref=e1017] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1018] [cursor=pointer]:
+                - img [ref=e1019] [cursor=pointer]
+                - generic [ref=e1020] [cursor=pointer]: Veena
+          - group [ref=e1021]:
+            - link [ref=e1022] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1023] [cursor=pointer]:
+                - img [ref=e1024] [cursor=pointer]
+                - generic [ref=e1025] [cursor=pointer]: Jagadeesh
+          - group [ref=e1026]:
+            - link [ref=e1027] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1028] [cursor=pointer]:
+                - img [ref=e1029] [cursor=pointer]
+                - generic [ref=e1030] [cursor=pointer]: Piyush
+          - group [ref=e1031]:
+            - link [ref=e1032] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1033] [cursor=pointer]:
+                - img [ref=e1034] [cursor=pointer]
+                - generic [ref=e1035] [cursor=pointer]: Asheesh
+          - group [ref=e1036]:
+            - link [ref=e1037] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1038] [cursor=pointer]:
+                - img [ref=e1039] [cursor=pointer]
+                - generic [ref=e1040] [cursor=pointer]: Nikhil
+          - group [ref=e1041]:
+            - link [ref=e1042] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1043] [cursor=pointer]:
+                - img [ref=e1044] [cursor=pointer]
+                - generic [ref=e1045] [cursor=pointer]: Nikhil
+          - group [ref=e1046]:
+            - link [ref=e1047] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1048] [cursor=pointer]:
+                - img [ref=e1049] [cursor=pointer]
+                - generic [ref=e1050] [cursor=pointer]: Marko
+          - group [ref=e1051]:
+            - link [ref=e1052] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1053] [cursor=pointer]:
+                - img [ref=e1054] [cursor=pointer]
+                - generic [ref=e1055] [cursor=pointer]: Seema
+          - group [ref=e1056]:
+            - link [ref=e1057] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1058] [cursor=pointer]:
+                - img [ref=e1059] [cursor=pointer]
+                - generic [ref=e1060] [cursor=pointer]: Shashwat
+          - group [ref=e1061]:
+            - link [ref=e1062] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1063] [cursor=pointer]:
+                - img [ref=e1064] [cursor=pointer]
+                - generic [ref=e1065] [cursor=pointer]: Mangesh
+          - group [ref=e1066]:
+            - link [ref=e1067] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1068] [cursor=pointer]:
+                - img [ref=e1069] [cursor=pointer]
+                - generic [ref=e1070] [cursor=pointer]: Priyanka
+          - group [ref=e1071]:
+            - link [ref=e1072] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1073] [cursor=pointer]
+          - group [ref=e1074]:
+            - link [ref=e1075] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1076] [cursor=pointer]:
+                - img [ref=e1077] [cursor=pointer]
+                - generic [ref=e1078] [cursor=pointer]: Shammi
+          - group [ref=e1079]:
+            - link [ref=e1080] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1081] [cursor=pointer]:
+                - img [ref=e1082] [cursor=pointer]
+                - generic [ref=e1083] [cursor=pointer]: Pavan
+          - group [ref=e1084]:
+            - link [ref=e1085] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1086] [cursor=pointer]:
+                - img [ref=e1087] [cursor=pointer]
+                - generic [ref=e1088] [cursor=pointer]: Rahul
+          - group [ref=e1089]:
+            - link [ref=e1090] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1091] [cursor=pointer]:
+                - img [ref=e1092] [cursor=pointer]
+                - generic [ref=e1093] [cursor=pointer]: joe
+          - group [ref=e1094]:
+            - link [ref=e1095] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1096] [cursor=pointer]:
+                - img [ref=e1097] [cursor=pointer]
+                - generic [ref=e1098] [cursor=pointer]: Carlos
+          - group [ref=e1099]:
+            - link [ref=e1100] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1101] [cursor=pointer]:
+                - img [ref=e1102] [cursor=pointer]
+                - generic [ref=e1103] [cursor=pointer]: Karthik
+          - group [ref=e1104]:
+            - link [ref=e1105] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1106] [cursor=pointer]:
+                - img [ref=e1107] [cursor=pointer]
+                - generic [ref=e1108] [cursor=pointer]: Rahul
+          - group [ref=e1109]:
+            - link [ref=e1110] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1111] [cursor=pointer]:
+                - img [ref=e1112] [cursor=pointer]
+                - generic [ref=e1113] [cursor=pointer]: Arun
+          - group [ref=e1114]:
+            - link [ref=e1115] [cursor=pointer]:
+              - /url: /ambassador-program/
+              - figure [ref=e1116] [cursor=pointer]:
+                - img [ref=e1117] [cursor=pointer]
+                - generic [ref=e1118] [cursor=pointer]: Brijesh
+    - generic [ref=e1120]:
+      - generic [ref=e1122]:
+        - heading "TestCase Studio - Free Recorder Plugin" [level=2] [ref=e1124]
+        - list [ref=e1126]:
+          - listitem [ref=e1127]:
+            - img [ref=e1129]
+            - generic [ref=e1131]: Screen Recording, Network Logs, URL for each step, no step limit
+          - listitem [ref=e1132]:
+            - img [ref=e1134]
+            - generic [ref=e1136]: Ads Free, Dark Theme & more advance features
+          - listitem [ref=e1137]:
+            - img [ref=e1139]
+            - generic [ref=e1141]: Take a free trial and boost your productivity
+        - link "Install Now" [ref=e1143] [cursor=pointer]:
+          - /url: https://selectorshub.com/testcase-studio/
+          - generic [ref=e1144] [cursor=pointer]:
+            - img [ref=e1146] [cursor=pointer]
+            - generic [ref=e1150] [cursor=pointer]: Install Now
+      - generic [ref=e1154]:
+        - heading "TestCase Studio Pro - Advanced TestCase Recorder" [level=2] [ref=e1156]
+        - list [ref=e1158]:
+          - listitem [ref=e1159]:
+            - img [ref=e1161]
+            - generic [ref=e1163]: Screen Recording, Network Logs, URL for each step, no step limit
+          - listitem [ref=e1164]:
+            - img [ref=e1166]
+            - generic [ref=e1168]: Ads Free, Dark Theme & more advance features
+          - listitem [ref=e1169]:
+            - img [ref=e1171]
+            - generic [ref=e1173]: Take a free trial and boost your productivity
+        - link "Install Now" [ref=e1175] [cursor=pointer]:
+          - /url: https://selectorshub.com/testcase-studio-pro/
+          - generic [ref=e1176] [cursor=pointer]:
+            - img [ref=e1178] [cursor=pointer]:
+              - generic [ref=e1195] [cursor=pointer]: PRO
+            - generic [ref=e1196] [cursor=pointer]: Install Now
+      - generic [ref=e1199]:
+        - generic [ref=e1200]:
+          - 'heading "Check My Links: Find Broken links Effortlessly." [level=2] [ref=e1202]'
+          - paragraph [ref=e1204]: A Free Chrome extension designed to help web developers, content editors, and SEO professionals quickly scan web pages for broken links, Active links, warnings, and valid indirect links.
+          - link "Install Now" [ref=e1206] [cursor=pointer]:
+            - /url: https://selectorshub.com/checkmylinks/
+            - generic [ref=e1207] [cursor=pointer]:
+              - img [ref=e1209] [cursor=pointer]
+              - generic [ref=e1233] [cursor=pointer]: Install Now
+        - img "Check My Links Card Graphic" [ref=e1236]
+      - generic [ref=e1237]:
+        - generic [ref=e1238]:
+          - heading "SelectorsHub - Next Gen XPath Plugin" [level=2] [ref=e1240]
+          - list [ref=e1242]:
+            - listitem [ref=e1243]:
+              - img [ref=e1245]
+              - generic [ref=e1247]: Auto Generate unique relative XPath and all possible selectors
+            - listitem [ref=e1248]:
+              - img [ref=e1250]
+              - generic [ref=e1252]: XPath Healing, locators page, attribute filter
+            - listitem [ref=e1253]:
+              - img [ref=e1255]
+              - generic [ref=e1257]: Debugger to inspect dynamic dropdown
+          - link "48x48 Install Now" [ref=e1259] [cursor=pointer]:
+            - /url: https://selectorshub.com/selectorshub/
+            - generic [ref=e1260] [cursor=pointer]:
+              - img "48x48" [ref=e1262] [cursor=pointer]
+              - generic [ref=e1269] [cursor=pointer]: Install Now
+        - img "SelectorsHub Card Graphics" [ref=e1272]
+      - generic [ref=e1274]:
+        - heading "SelectorsHub Pro - Super advanced XPath Plugin" [level=2] [ref=e1276]
+        - list [ref=e1278]:
+          - listitem [ref=e1279]:
+            - img [ref=e1281]
+            - generic [ref=e1283]: Selectors Healing, Inspector, Dynamic XPath Checker & lot more
+          - listitem [ref=e1284]:
+            - img [ref=e1286]
+            - generic [ref=e1288]: No Ads, Advanced search, Code for different languages
+          - listitem [ref=e1289]:
+            - img [ref=e1291]
+            - generic [ref=e1293]: Take a free trial and boost your productivity
+        - link "Install Now" [ref=e1295] [cursor=pointer]:
+          - /url: https://selectorshub.com/selectorshub-pro/
+          - generic [ref=e1296] [cursor=pointer]:
+            - img [ref=e1298] [cursor=pointer]:
+              - generic [ref=e1305] [cursor=pointer]: PRO
+              - generic [ref=e1308] [cursor=pointer]: PRO
+            - generic [ref=e1309] [cursor=pointer]: Install Now
+      - generic [ref=e1312]:
+        - generic [ref=e1313]:
+          - 'heading "Page Load Timer: Get Page Load Time" [level=2] [ref=e1315]'
+          - paragraph [ref=e1317]: A Free Chrome extension designed to help web developers, content editors, and SEO professionals quickly scan web pages for broken links, Active links, warnings, and valid indirect links.
+          - link "Install Now" [ref=e1319] [cursor=pointer]:
+            - /url: https://selectorshub.com/page-load-timer/
+            - generic [ref=e1320] [cursor=pointer]:
+              - img [ref=e1322] [cursor=pointer]
+              - generic [ref=e1331] [cursor=pointer]: Install Now
+        - img "Page Load Timer Card Graphhics" [ref=e1334]
+      - generic [ref=e1335]:
+        - generic [ref=e1336]:
+          - 'heading "Auto Data Filler: Quick Data Fill while Exploratory Testing." [level=2] [ref=e1338]'
+          - paragraph [ref=e1340]: Free Tool to fill the data in one click from context menu while doing exploratory testing.
+          - link "Install Now" [ref=e1342] [cursor=pointer]:
+            - /url: https://selectorshub.com/auto-data-filler/
+            - generic [ref=e1343] [cursor=pointer]:
+              - img [ref=e1345] [cursor=pointer]
+              - generic [ref=e1355] [cursor=pointer]: Install Now
+        - img "AutoData Filter Card Graphic" [ref=e1358]
+      - generic [ref=e1359]:
+        - generic [ref=e1360]:
+          - 'heading "Testing Daily: App to Get The Latest Testing Feed" [level=2] [ref=e1362]'
+          - list [ref=e1364]:
+            - listitem [ref=e1365]:
+              - img [ref=e1367]
+              - generic [ref=e1369]: Available As Mobile App, Browser Plugin & Web App
+            - listitem [ref=e1370]:
+              - img [ref=e1372]
+              - generic [ref=e1374]: Shows feed from more than 400+ resources
+            - listitem [ref=e1375]:
+              - img [ref=e1377]
+              - generic [ref=e1379]: Install it now and keep yourself updated with Testing news
+          - link "Install Now" [ref=e1381] [cursor=pointer]:
+            - /url: https://selectorshub.com/testing-daily/
+            - generic [ref=e1382] [cursor=pointer]:
+              - img [ref=e1384] [cursor=pointer]
+              - generic [ref=e1474] [cursor=pointer]: Install Now
+        - img "Testing Daily Card Graphic" [ref=e1477]
+      - generic [ref=e1479]:
+        - 'heading "AutoTestData: Web App to Generate Test Data in 3 Clicks" [level=2] [ref=e1481]'
+        - list [ref=e1483]:
+          - listitem [ref=e1484]:
+            - img [ref=e1486]
+            - generic [ref=e1488]: No more time waste in writing code and Installation
+          - listitem [ref=e1489]:
+            - img [ref=e1491]
+            - generic [ref=e1493]: Open url and generate required data in desired format in 3 steps
+        - link "Explore Now" [ref=e1495] [cursor=pointer]:
+          - /url: https://selectorshub.com/autotestdata/
+          - generic [ref=e1496] [cursor=pointer]:
+            - img [ref=e1498] [cursor=pointer]
+            - generic [ref=e1504] [cursor=pointer]: Explore Now
+      - generic [ref=e1507]:
+        - generic [ref=e1508]:
+          - heading "SelectorsHub Ads - Promote your testing tools" [level=2] [ref=e1510]
+          - list [ref=e1512]:
+            - listitem [ref=e1513]:
+              - img [ref=e1515]
+              - generic [ref=e1517]: Promote Your Testing Products and Events to reach 1.5M+ Testers
+            - listitem [ref=e1518]:
+              - img [ref=e1520]
+              - generic [ref=e1522]: Pay only when you get the leads, no charge for showing the Ads
+            - listitem [ref=e1523]:
+              - img [ref=e1525]
+              - generic [ref=e1527]: Connect with us to learn more..
+          - link "Connect with us" [ref=e1529] [cursor=pointer]:
+            - /url: https://selectorshub.com/selectorshub-ads/
+            - generic [ref=e1530] [cursor=pointer]:
+              - img [ref=e1532] [cursor=pointer]:
+                - generic [ref=e1539] [cursor=pointer]: Ads
+                - generic [ref=e1542] [cursor=pointer]: ADS
+              - generic [ref=e1543] [cursor=pointer]: Connect with us
+        - img "SelectorsHu Ads Card Graphic" [ref=e1546]
+      - generic [ref=e1547]:
+        - generic [ref=e1548]:
+          - heading "Practice Page - with complex UI scenarios" [level=2] [ref=e1550]
+          - list [ref=e1552]:
+            - listitem [ref=e1553]:
+              - img [ref=e1555]
+              - generic [ref=e1557]: Web page with shadow dom, iframe, svg, nested iframe
+            - listitem [ref=e1558]:
+              - img [ref=e1560]
+              - generic [ref=e1562]: A practice page with the most complex scenarios
+            - listitem [ref=e1563]:
+              - img [ref=e1565]
+              - generic [ref=e1567]: Automate this page to be test your expertise
+          - link "Try Now" [ref=e1569] [cursor=pointer]:
+            - /url: /xpath-practice-page/
+            - generic [ref=e1570] [cursor=pointer]:
+              - img [ref=e1572] [cursor=pointer]
+              - generic [ref=e1574] [cursor=pointer]: Try Now
+        - img "Practice Page card Graphic" [ref=e1577]
+      - generic [ref=e1578]:
+        - generic [ref=e1579]:
+          - 'heading "AI Post Creator: Auto Generate Social Media Post." [level=2] [ref=e1581]'
+          - paragraph [ref=e1583]: Free tool to generate social media post with reminder and generate post for your youtube channel videos.
+          - link "Install Now" [ref=e1585] [cursor=pointer]:
+            - /url: https://selectorshub.com/ai-post-creator/
+            - generic [ref=e1586] [cursor=pointer]:
+              - img [ref=e1588] [cursor=pointer]
+              - generic [ref=e1608] [cursor=pointer]: Install Now
+        - img "AI Creator Card Graphic" [ref=e1611]
+    - generic [ref=e1613]:
+      - heading "Awards and achievements" [level=2] [ref=e1616]
+      - region "Carousel" [ref=e1620]:
+        - generic [ref=e1621]:
+          - group [ref=e1622]:
+            - generic [ref=e1626]:
+              - figure [ref=e1627]:
+                - link [ref=e1628] [cursor=pointer]:
+                  - /url: https://selectorshub.com/selectorshub-now-a-patented-technology/
+              - heading [level=3] [ref=e1630]:
+                - link [ref=e1631] [cursor=pointer]:
+                  - /url: https://selectorshub.com/selectorshub-now-a-patented-technology/
+                  - text: Patent Grant
+          - group [ref=e1632]:
+            - generic [ref=e1636]:
+              - figure [ref=e1637]:
+                - link [ref=e1638] [cursor=pointer]:
+                  - /url: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/#possible-solutions
+              - heading [level=3] [ref=e1640]:
+                - link [ref=e1641] [cursor=pointer]:
+                  - /url: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/#possible-solutions
+                  - text: Recommended by Selenium
+          - group [ref=e1642]:
+            - generic [ref=e1646]:
+              - figure [ref=e1647]:
+                - img [ref=e1648]
+              - heading [level=3] [ref=e1650]: Indian Achievers' 2020
+          - group [ref=e1651]
+          - group "1 / 5" [ref=e1654]:
+            - generic [ref=e1658]:
+              - figure [ref=e1659]:
+                - link "young achinver compress" [ref=e1660] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/creator-sanjaykumar/
+                  - img "young achinver compress" [ref=e1661] [cursor=pointer]
+              - heading "Young Achievers' 2021" [level=3] [ref=e1663]:
+                - link "Young Achievers' 2021" [ref=e1664] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/creator-sanjaykumar/
+          - group "2 / 5" [ref=e1665]:
+            - generic [ref=e1669]:
+              - figure [ref=e1670]:
+                - link [ref=e1671] [cursor=pointer]:
+                  - /url: https://selectorshub.com/selectorshub-now-a-patented-technology/
+              - heading "Patent Grant" [level=3] [ref=e1673]:
+                - link "Patent Grant" [ref=e1674] [cursor=pointer]:
+                  - /url: https://selectorshub.com/selectorshub-now-a-patented-technology/
+          - group "3 / 5" [ref=e1675]:
+            - generic [ref=e1679]:
+              - figure [ref=e1680]:
+                - link [ref=e1681] [cursor=pointer]:
+                  - /url: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/#possible-solutions
+              - heading "Recommended by Selenium" [level=3] [ref=e1683]:
+                - link "Recommended by Selenium" [ref=e1684] [cursor=pointer]:
+                  - /url: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/#possible-solutions
+          - group [ref=e1685]:
+            - generic [ref=e1689]:
+              - figure [ref=e1690]:
+                - img [ref=e1691]
+              - heading [level=3] [ref=e1693]: Indian Achievers' 2020
+          - group [ref=e1694]
+          - group [ref=e1697]:
+            - generic [ref=e1701]:
+              - figure [ref=e1702]:
+                - link [ref=e1703] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/creator-sanjaykumar/
+                  - img [ref=e1704] [cursor=pointer]
+              - heading [level=3] [ref=e1706]:
+                - link [ref=e1707] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/creator-sanjaykumar/
+                  - text: Young Achievers' 2021
+          - group [ref=e1708]:
+            - generic [ref=e1712]:
+              - figure [ref=e1713]:
+                - link [ref=e1714] [cursor=pointer]:
+                  - /url: https://selectorshub.com/selectorshub-now-a-patented-technology/
+              - heading [level=3] [ref=e1716]:
+                - link [ref=e1717] [cursor=pointer]:
+                  - /url: https://selectorshub.com/selectorshub-now-a-patented-technology/
+                  - text: Patent Grant
+          - group [ref=e1718]:
+            - generic [ref=e1722]:
+              - figure [ref=e1723]:
+                - link [ref=e1724] [cursor=pointer]:
+                  - /url: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/#possible-solutions
+              - heading [level=3] [ref=e1726]:
+                - link [ref=e1727] [cursor=pointer]:
+                  - /url: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/#possible-solutions
+                  - text: Recommended by Selenium
+          - group [ref=e1728]:
+            - generic [ref=e1732]:
+              - figure [ref=e1733]:
+                - img [ref=e1734]
+              - heading [level=3] [ref=e1736]: Indian Achievers' 2020
+    - generic [ref=e1741]:
+      - heading "subscribe to our YouTube channel now for new exciting updates" [level=2] [ref=e1743]
+      - link "Youtube_logo" [ref=e1745] [cursor=pointer]:
+        - /url: https://www.youtube.com/c/SelectorsHub?sub_confirmation=1
+        - img "Youtube_logo" [ref=e1746] [cursor=pointer]
+  - contentinfo [ref=e1747]:
+    - contentinfo [ref=e1748]:
+      - generic [ref=e1749]:
+        - generic [ref=e1750]:
+          - generic [ref=e1751]:
+            - link "SelectorHub Logo" [ref=e1753] [cursor=pointer]:
+              - /url: https://selectorshub.com
+              - img "SelectorHub Logo" [ref=e1754] [cursor=pointer]
+            - generic [ref=e1755]:
+              - paragraph [ref=e1756]: We’re Here to Enhance Your Web Testing—Start Now
+              - paragraph [ref=e1757]: support@selectorshub.com
+          - generic [ref=e1758]:
+            - heading "Free Tools" [level=4] [ref=e1760]
+            - navigation "Menu" [ref=e1762]:
+              - list [ref=e1763]:
+                - listitem [ref=e1764]:
+                  - link "SelectorsHub – Best Tool to auto generate Playwright Locators and Xpath" [ref=e1765] [cursor=pointer]:
+                    - /url: https://selectorshub.com/selectorshub/
+                - listitem [ref=e1766]:
+                  - link "TestCase Studio" [ref=e1767] [cursor=pointer]:
+                    - /url: https://selectorshub.com/testcase-studio/
+                - listitem [ref=e1768]:
+                  - link "Check My Links" [ref=e1769] [cursor=pointer]:
+                    - /url: https://selectorshub.com/checkmylinks/
+                - listitem [ref=e1770]:
+                  - link "Exploratory Tester" [ref=e1771] [cursor=pointer]:
+                    - /url: https://selectorshub.com/exploratory-tester/
+                - listitem [ref=e1772]:
+                  - link "Screenshot with URL" [ref=e1773] [cursor=pointer]:
+                    - /url: https://selectorshub.com/screenshot-with-url/
+                - listitem [ref=e1774]:
+                  - link "Page Load Timer" [ref=e1775] [cursor=pointer]:
+                    - /url: https://selectorshub.com/page-load-timer/
+                - listitem [ref=e1776]:
+                  - link "Testing Daily" [ref=e1777] [cursor=pointer]:
+                    - /url: https://selectorshub.com/testing-daily/
+                - listitem [ref=e1778]:
+                  - link "Auto Data Filler" [ref=e1779] [cursor=pointer]:
+                    - /url: https://selectorshub.com/auto-data-filler/
+                - listitem [ref=e1780]:
+                  - link "AutoTestData" [ref=e1781] [cursor=pointer]:
+                    - /url: https://selectorshub.com/autotestdata/
+                - listitem [ref=e1782]:
+                  - link "Automation Tool Analyzer" [ref=e1783] [cursor=pointer]:
+                    - /url: https://selectorshub.com/automation-tool-analyzer/
+                - listitem [ref=e1784]:
+                  - link "AI Post Creator" [ref=e1785] [cursor=pointer]:
+                    - /url: https://selectorshub.com/ai-post-creator/
+          - generic [ref=e1786]:
+            - heading "Paid Tools" [level=4] [ref=e1788]
+            - navigation "Menu" [ref=e1790]:
+              - list [ref=e1791]:
+                - listitem [ref=e1792]:
+                  - link "SelectorsHub Pro" [ref=e1793] [cursor=pointer]:
+                    - /url: https://selectorshub.com/selectorshub-pro/
+                - listitem [ref=e1794]:
+                  - link "TestCase Studio Pro" [ref=e1795] [cursor=pointer]:
+                    - /url: https://selectorshub.com/testcase-studio-pro/
+                - listitem [ref=e1796]:
+                  - link "Promote with us" [ref=e1797] [cursor=pointer]:
+                    - /url: https://selectorshub.com/selectorshub-ads/
+          - generic [ref=e1798]:
+            - heading "Resources" [level=4] [ref=e1800]
+            - navigation "Menu" [ref=e1802]:
+              - list [ref=e1803]:
+                - listitem [ref=e1804]:
+                  - link "Courses" [ref=e1805] [cursor=pointer]:
+                    - /url: https://selectorshub.com/courses-recordings/
+                - listitem [ref=e1806]:
+                  - link "Trainings" [ref=e1807] [cursor=pointer]:
+                    - /url: https://selectorshub.com/bootcamp/
+                - listitem [ref=e1808]:
+                  - link "Video Tutorials" [ref=e1809] [cursor=pointer]:
+                    - /url: https://www.youtube.com/c/SelectorsHub?sub_confirmation=1
+                - listitem [ref=e1810]:
+                  - link "Meetup" [ref=e1811] [cursor=pointer]:
+                    - /url: https://selectorshub.com/meetup/
+                - listitem [ref=e1812]:
+                  - link "SelectorsHub Offers" [ref=e1813] [cursor=pointer]:
+                    - /url: https://selectorshub.com/offers/
+          - generic [ref=e1814]:
+            - heading "Useful Links" [level=4] [ref=e1816]
+            - navigation "Menu" [ref=e1818]:
+              - list [ref=e1819]:
+                - listitem [ref=e1820]:
+                  - link "About Us" [ref=e1821] [cursor=pointer]:
+                    - /url: https://selectorshub.com/team/
+                - listitem [ref=e1822]:
+                  - link "Contact Us" [ref=e1823] [cursor=pointer]:
+                    - /url: https://selectorshub.com/contact-us/
+                - listitem [ref=e1824]:
+                  - link "Sponsors" [ref=e1825] [cursor=pointer]:
+                    - /url: https://selectorshub.com/sponsors/
+                - listitem [ref=e1826]:
+                  - link "Practice Page" [ref=e1827] [cursor=pointer]:
+                    - /url: https://selectorshub.com/xpath-practice-page/
+                - listitem [ref=e1828]:
+                  - link "Cancellation & Refund Policy" [ref=e1829] [cursor=pointer]:
+                    - /url: https://selectorshub.com/cancellation-refund-policy/
+                - listitem [ref=e1830]:
+                  - link "Certification" [ref=e1831] [cursor=pointer]:
+                    - /url: https://selectorshub.com/certification/
+                - listitem [ref=e1832]:
+                  - link "Privacy Policy" [ref=e1833] [cursor=pointer]:
+                    - /url: https://selectorshub.com/privacy-policy/
+                - listitem [ref=e1834]:
+                  - link "Terms of Service" [ref=e1835] [cursor=pointer]:
+                    - /url: https://selectorshub.com/terms-of-service/
+        - generic [ref=e1836]:
+          - generic [ref=e1838]: Copyright © 2026 SelectorsHub ® . All rights reserved
+          - list [ref=e1841]:
+            - listitem [ref=e1842]:
+              - link "Youtube" [ref=e1843] [cursor=pointer]:
+                - /url: https://www.youtube.com/c/SelectorsHub?sub_confirmation=1
+                - generic [ref=e1844] [cursor=pointer]: Youtube
+                - img [ref=e1845] [cursor=pointer]
+            - listitem [ref=e1847]:
+              - link "Telegram" [ref=e1848] [cursor=pointer]:
+                - /url: https://t.me/selectorshub
+                - generic [ref=e1849] [cursor=pointer]: Telegram
+                - img [ref=e1850] [cursor=pointer]
+            - listitem [ref=e1852]:
+              - link "Instagram" [ref=e1853] [cursor=pointer]:
+                - /url: https://www.instagram.com/SelectorsHub/
+                - generic [ref=e1854] [cursor=pointer]: Instagram
+                - img [ref=e1855] [cursor=pointer]
+            - listitem [ref=e1857]:
+              - link "Linkedin" [ref=e1858] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/selectorshub/about
+                - generic [ref=e1859] [cursor=pointer]: Linkedin
+                - img [ref=e1860] [cursor=pointer]
+            - listitem [ref=e1862]:
+              - link "Facebook" [ref=e1863] [cursor=pointer]:
+                - /url: https://www.facebook.com/selectorshub/
+                - generic [ref=e1864] [cursor=pointer]: Facebook
+                - img [ref=e1865] [cursor=pointer]
+            - listitem [ref=e1867]:
+              - link "Twitter" [ref=e1868] [cursor=pointer]:
+                - /url: https://x.com/SelectorsHub
+                - generic [ref=e1869] [cursor=pointer]: Twitter
+                - img [ref=e1870] [cursor=pointer]
+  - generic [ref=e1872]: desktop
+```
